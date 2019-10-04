@@ -15,7 +15,6 @@ module Engine
 
    def match_exist?(year, make, model, engine)
     model = model.downcase
-    make = make.gsub('-',' ')
     @wd_entries.select{|d| d[0] == year && make == d[1]}.each do |row|
       if model.downcase.include?('awd') || model.downcase.include?('4wd')
         m = model.gsub('awd','2wd' ).gsub('4wd', '2wd')
@@ -27,7 +26,6 @@ module Engine
       if model.include?('2wd')
         m = model.gsub('2wd','awd')
         return true if row[0] == year && row[1].downcase == make.downcase && row[2].downcase == m.downcase && row[3].downcase == engine.downcase
-        #binding.pry
       end  
     end
     false
@@ -80,7 +78,7 @@ module Engine
       data.each do |row|
         eng = row[3]
         if row[2].downcase.include?('4wd') || row[2].downcase.include?('2wd') || row[2].downcase.include?('awd')
-          next if match_exist?(row[0], master_make(row), row[2], row[3])
+          next if match_exist?(row[0], row[1], row[2], row[3])
           @wd_entries << row
         end
         engine_with_meta_data <<  ([row[0], master_make(row)] + row[1..3] + [vin(eng),"",""] + [size(eng).to_f, cylinders(eng),fuel_type(eng), fuel_type(eng)] + row[4..-1])
