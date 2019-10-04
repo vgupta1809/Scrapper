@@ -87,7 +87,7 @@ module Engine
     end
 
     def to_csv
-      File.open('autozone_metadata_1.csv', 'w') do |f|
+      File.open('autozone_metadata.csv', 'w') do |f|
       f.write(([['Year','Make', 'Model', 'Engine', 'code', 'Master Make','Cyclinders','Size','Fuel Type']] + metdata_info).map(&:to_csv).join)
       end
     end
