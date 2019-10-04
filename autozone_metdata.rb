@@ -5,12 +5,27 @@ module Engine
     attr_accessor  :data, :autozone_makes, :engine_with_meta_data, :meta_data
 
     def initialize(year = nil)
+      generate_one_csv
       @data = CSV.read('autozone.csv')[1..-1]
       @data = @data[1..-1].select{|d| d[0] == year.to_s } if year
       @autozone_makes = {}
       @engine_with_meta_data = []
       @meta_data = []
       master_make_data
+    end
+
+    def generate_one_csv
+      files = Dir["./autozone/*.csv"].sort
+      file_contents = files.map { |f| CSV.read(f) }
+      csv_string = CSV.generate do |csv|
+        #csv << csv_headers
+        file_contents.each do |file|
+          file.each do |row|
+            csv << row
+          end
+        end
+      end
+      File.open("autozone.csv", "w") { |f| f << csv_string }
     end
 
    def match_exist?(year, make, model, engine)
