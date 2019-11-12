@@ -1,0 +1,2042 @@
+Year,Make,Model,Engine,code,Master Make,Cyclinders,Size,Fuel Type
+2015,Acura,Acura,ILX,4 Cylinders 2.0L MFI SOHC,"","","",2.0,4,,,34850902
+2015,Acura,Acura,ILX,4 Cylinders 2.4L FI DOHC VTEC,"","","",2.4,4,,,34850901
+2015,Acura,Acura,MDX,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34851001
+2015,Acura,Acura,MDX SH-AWD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34851101
+2015,Acura,Acura,RDX 2WD,6 Cylinders 3.5L FI SOHC VTEC,"","","",3.5,6,,,34786201
+2015,Acura,Acura,RLX,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34786101
+2015,Acura,Acura,TLX,4 Cylinders 2.4L FI DOHC VTEC,"","","",2.4,4,,,34867001
+2015,Acura,Acura,TLX,6 Cylinders 3.5L FI SOHC VTEC,"","","",3.5,6,,,34867002
+2015,Acura,Acura,TLX SH-AWD,6 Cylinders 3.5L FI SOHC VTEC,"","","",3.5,6,,,34989101
+2015,Alfa Romeo,Alfa Romeo,4C,4 Cylinders 1.7L DI Turbo DOHC,"","","",1.7,4,,,34850801
+2015,Alfa Romeo,Alfa Romeo,4C Launch Edition,4 Cylinders 1.7L DI Turbo DOHC,"","","",1.7,4,,,34946801
+2015,Alfa Romeo,Alfa Romeo,4C Spider,4 Cylinders 1.7L DI Turbo DOHC,"","","",1.7,4,,,35872801
+2015,Audi,Audi,A3 Premium,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34799801
+2015,Audi,Audi,A3 Premium,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34799802
+2015,Audi,Audi,A3 Premium Plus,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34799901
+2015,Audi,Audi,A3 Premium Plus,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34799902
+2015,Audi,Audi,A3 Premium Plus Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34800201
+2015,Audi,Audi,A3 Premium Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34800101
+2015,Audi,Audi,A3 Prestige,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34800001
+2015,Audi,Audi,A3 Prestige,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34800002
+2015,Audi,Audi,A3 Prestige Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34800301
+2015,Audi,Audi,A4 Premium,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888101
+2015,Audi,Audi,A4 Premium Plus,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888201
+2015,Audi,Audi,A4 Premium Plus Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34888602
+2015,Audi,Audi,A4 Premium Plus Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888601
+2015,Audi,Audi,A4 Premium Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34888502
+2015,Audi,Audi,A4 Premium Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888501
+2015,Audi,Audi,A4 Prestige,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888301
+2015,Audi,Audi,A4 Prestige Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34888702
+2015,Audi,Audi,A4 Prestige Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34888701
+2015,Audi,Audi,A5 Premium Plus Quattro,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34947202
+2015,Audi,Audi,A5 Premium Plus Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34947201
+2015,Audi,Audi,A5 Premium Quattro,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34947101
+2015,Audi,Audi,A5 Premium Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34947102
+2015,Audi,Audi,A5 Prestige Quattro,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34947301
+2015,Audi,Audi,A5 Prestige Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34947302
+2015,Audi,Audi,A6 Premium,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34889001
+2015,Audi,Audi,A6 Premium Plus,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34889101
+2015,Audi,Audi,A6 Premium Plus Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34889201
+2015,Audi,Audi,A6 Premium Plus Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34889202
+2015,Audi,Audi,A6 Premium Plus Quattro TDI,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34889401
+2015,Audi,Audi,A6 Premium Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,35990101
+2015,Audi,Audi,A6 Prestige Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34889301
+2015,Audi,Audi,A6 Prestige Quattro TDI,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34889501
+2015,Audi,Audi,A7 Premium Plus Quattro,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34889601
+2015,Audi,Audi,A7 Premium Plus Quattro TDI,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34851301
+2015,Audi,Audi,A7 Prestige Quattro,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34889701
+2015,Audi,Audi,A7 Prestige Quattro TDI,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34851401
+2015,Audi,Audi,A8 L Quattro,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34852402
+2015,Audi,Audi,A8 L Quattro,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34852401
+2015,Audi,Audi,A8 L TDI Quattro,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34852301
+2015,Audi,Audi,A8 L W12 Quattro,12 Cylinders 6.3L DI DOHC,"","","",6.3,12,,,34852101
+2015,Audi,Audi,A8 Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34852201
+2015,Audi,Audi,A8 Quattro,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34852202
+2015,Audi,Audi,Allroad Premium Plus Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34889801
+2015,Audi,Audi,Allroad Premium Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34801101
+2015,Audi,Audi,Allroad Prestige Quattro,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34889901
+2015,Audi,Audi,Q3 Premium Plus,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34890001
+2015,Audi,Audi,Q3 Premium Plus Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34890201
+2015,Audi,Audi,Q3 Prestige,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34890101
+2015,Audi,Audi,Q3 Prestige Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34890301
+2015,Audi,Audi,Q5 Hybrid Prestige AWD,4 Cylinders 2.0L MFI Turbo HEV,"","","",2.0,4,Hybrid,Hybrid,34852501
+2015,Audi,Audi,Q5 Premium AWD,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34852601
+2015,Audi,Audi,Q5 Premium Plus AWD,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34852701
+2015,Audi,Audi,Q5 Premium Plus AWD,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34852702
+2015,Audi,Audi,Q5 Premium Plus TDI AWD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34852901
+2015,Audi,Audi,Q5 Prestige AWD,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34852801
+2015,Audi,Audi,Q5 Prestige TDI AWD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34853001
+2015,Audi,Audi,Q7 Premium AWD,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34890401
+2015,Audi,Audi,Q7 Premium Plus AWD,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34890501
+2015,Audi,Audi,Q7 Prestige AWD,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34890601
+2015,Audi,Audi,Q7 TDI Premium AWD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34890701
+2015,Audi,Audi,Q7 TDI Premium Plus AWD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34890801
+2015,Audi,Audi,Q7 TDI Prestige AWD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34890901
+2015,Audi,Audi,R8 Plus Quattro,10 Cylinders 5.2L FI DOHC,"","","",5.2,10,,,34853801
+2015,Audi,Audi,R8 Quattro,10 Cylinders 5.2L FI DOHC,"","","",5.2,10,,,34853701
+2015,Audi,Audi,R8 Quattro,8 Cylinders 4.2L FI DOHC,"","","",4.2,8,,,34853702
+2015,Audi,Audi,R8 Spyder Quattro,10 Cylinders 5.2L FI DOHC,"","","",5.2,10,,,34853901
+2015,Audi,Audi,R8 Spyder Quattro,8 Cylinders 4.2L FI DOHC,"","","",4.2,8,,,34853902
+2015,Audi,Audi,RS 5,8 Cylinders 4.2L FI DOHC,"","","",4.2,8,,,34891001
+2015,Audi,Audi,RS7,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34854001
+2015,Audi,Audi,S3 Premium Plus Quattro,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34948201
+2015,Audi,Audi,S3 Prestige Quattro,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34948401
+2015,Audi,Audi,S4 Premium Plus Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34891101
+2015,Audi,Audi,S4 Prestige Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34891201
+2015,Audi,Audi,S5 Premium Plus Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34891301
+2015,Audi,Audi,S5 Prestige Quattro,6 Cylinders G 3.0L FI SC DOHC,G,"","",3.0,6,,,34891401
+2015,Audi,Audi,S6 Quattro,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34891501
+2015,Audi,Audi,S7 Quattro,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34854101
+2015,Audi,Audi,S8 Quattro,8 Cylinders 4.0L FI Turbo DOHC,"","","",4.0,8,,,34854201
+2015,Audi,Audi,SQ5 Premium Plus Quattro,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34801401
+2015,Audi,Audi,SQ5 Prestige Quattro,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34891601
+2015,Audi,Audi,TT Quattro,4 Cylinders F 2.0L FI Turbo DOHC,F,"","",2.0,4,,,34801201
+2015,Audi,Audi,TTS Quattro,4 Cylinders 1 2.0L FI Turbo DOHC,1,"","",2.0,4,,,34801301
+2015,Autocar,Autocar,Xpeditor,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35173803
+2015,Autocar,Autocar,Xpeditor,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35173804
+2015,Autocar,Autocar,Xpeditor,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35173805
+2015,Autocar,Autocar,Xpeditor,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35173802
+2015,Autocar,Autocar,Xpert,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35895102
+2015,Autocar,Autocar,Xpert,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35895104
+2015,Autocar,Autocar,Xpert,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35895103
+2015,Autocar,Autocar,Xspotter Off Road,6 Cylinders 6.7L Turbo Diesel,"","","",6.7,6,Diesel,Diesel,35424403
+2015,Autocar,Autocar,Xspotter On Road,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35424502
+2015,Autocar,Autocar,Xspotter On Road,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35424504
+2015,Autocar,Autocar,Xspotter On Road,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35424503
+2015,Blue Bird,Blue Bird,All American FE AAC2810-3006,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203202
+2015,Blue Bird,Blue Bird,All American FE AAC3007-3108,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203302
+2015,Blue Bird,Blue Bird,All American FE AAC3401-3502,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203502
+2015,Blue Bird,Blue Bird,All American FE AAC3503-3604,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35837802
+2015,Blue Bird,Blue Bird,All American FE AAC3707-3808,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35838002
+2015,Blue Bird,Blue Bird,All American FE AAC3904-4100,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35837902
+2015,Blue Bird,Blue Bird,All American RE AAC3109-3400,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203402
+2015,Blue Bird,Blue Bird,All American RE AAC3109-3400,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35203404
+2015,Blue Bird,Blue Bird,All American RE AAC3109-3400,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35203403
+2015,Blue Bird,Blue Bird,All American RE AAC3503-3604,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203602
+2015,Blue Bird,Blue Bird,All American RE AAC3503-3604,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35203605
+2015,Blue Bird,Blue Bird,All American RE AAC3503-3604,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35203604
+2015,Blue Bird,Blue Bird,All American RE AAC3503-3604,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35203603
+2015,Blue Bird,Blue Bird,All American RE AAC3707-3808,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203702
+2015,Blue Bird,Blue Bird,All American RE AAC3707-3808,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35203703
+2015,Blue Bird,Blue Bird,All American RE AAC3904-4100,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203802
+2015,Blue Bird,Blue Bird,All American RE AAC3904-4100,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35203804
+2015,Blue Bird,Blue Bird,All American RE AAC3904-4100,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35203803
+2015,Blue Bird,Blue Bird,Vision School Bus BB1800-2199,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35203902
+2015,Blue Bird,Blue Bird,Vision School Bus BB2200-2509,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204003
+2015,Blue Bird,Blue Bird,Vision School Bus BB2200-2509,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204002
+2015,Blue Bird,Blue Bird,Vision School Bus BB2510-2700,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204103
+2015,Blue Bird,Blue Bird,Vision School Bus BB2510-2700,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204102
+2015,Blue Bird,Blue Bird,Vision School Bus BB2701-2809,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204203
+2015,Blue Bird,Blue Bird,Vision School Bus BB2701-2809,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204202
+2015,Blue Bird,Blue Bird,Vision School Bus BB3007-3108,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204303
+2015,Blue Bird,Blue Bird,Vision School Bus BB3007-3108,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204302
+2015,Blue Bird,Blue Bird,Vision School Bus BB3109-3400,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204403
+2015,Blue Bird,Blue Bird,Vision School Bus BB3109-3400,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204402
+2015,Blue Bird,Blue Bird,Vision School Bus BB3503-3604,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,35204503
+2015,Blue Bird,Blue Bird,Vision School Bus BB3503-3604,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35204502
+2015,BMW,BMW,228i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34854601
+2015,BMW,BMW,228i xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34854701
+2015,BMW,BMW,320i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34784701
+2015,BMW,BMW,320i xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34784801
+2015,BMW,BMW,328d,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34855101
+2015,BMW,BMW,328d xDrive,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34855201
+2015,BMW,BMW,328i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34854801
+2015,BMW,BMW,328i GT xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34855001
+2015,BMW,BMW,328i xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34854901
+2015,BMW,BMW,335i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34855301
+2015,BMW,BMW,335i GT xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34855501
+2015,BMW,BMW,335i xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34855401
+2015,BMW,BMW,428i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34784901
+2015,BMW,BMW,428i Gran Coupe,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34785101
+2015,BMW,BMW,428i xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34785001
+2015,BMW,BMW,428i xDrive Gran Coupe,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34785201
+2015,BMW,BMW,435i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34785301
+2015,BMW,BMW,435i Gran Coupe,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34785501
+2015,BMW,BMW,435i xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34785401
+2015,BMW,BMW,435i xDrive Gran Coupe,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34785601
+2015,BMW,BMW,528i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34855601
+2015,BMW,BMW,528i xDrive,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34855701
+2015,BMW,BMW,535d,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34856201
+2015,BMW,BMW,535d xDrive,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34856301
+2015,BMW,BMW,535i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34855801
+2015,BMW,BMW,535i GT,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34856001
+2015,BMW,BMW,535i GT xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34856101
+2015,BMW,BMW,535i xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34855901
+2015,BMW,BMW,550i,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34856401
+2015,BMW,BMW,550i GT,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34856601
+2015,BMW,BMW,550i GT xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34856701
+2015,BMW,BMW,550i xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34856501
+2015,BMW,BMW,640i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34788601
+2015,BMW,BMW,640i Gran Coupe,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34788801
+2015,BMW,BMW,640i xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34788701
+2015,BMW,BMW,640i xDrive Gran Coupe,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34788901
+2015,BMW,BMW,650i,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34789301
+2015,BMW,BMW,650i Gran Coupe,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34789501
+2015,BMW,BMW,650i xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34789401
+2015,BMW,BMW,650i xDrive Gran Coupe,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34789601
+2015,BMW,BMW,740i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34789801
+2015,BMW,BMW,740Ld xDrive,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34790001
+2015,BMW,BMW,740Li,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34789901
+2015,BMW,BMW,740Li xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34951001
+2015,BMW,BMW,750i,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34790101
+2015,BMW,BMW,750i xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34790201
+2015,BMW,BMW,750Li,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34870101
+2015,BMW,BMW,750Li xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34790301
+2015,BMW,BMW,760Li,12 Cylinders 6.0L Twin Turbo DOHC,"","","",6.0,12,,,34870201
+2015,BMW,BMW,ActiveHybrid 3,6 Cylinders 3.0L Turbo HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,34790501
+2015,BMW,BMW,ActiveHybrid 5,6 Cylinders 3.0L Turbo HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,34790601
+2015,BMW,BMW,ActiveHybrid 7,6 Cylinders 3.0L Turbo HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,34790701
+2015,BMW,BMW,Alpina B6 xDrive Gran Coupe,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34951101
+2015,BMW,BMW,Alpina B7,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34790801
+2015,BMW,BMW,Alpina B7 xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34790901
+2015,BMW,BMW,Alpina B7L,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34791001
+2015,BMW,BMW,Alpina B7L xDrive,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34791101
+2015,BMW,BMW,i3 (Electric),15 Cylinders 0.0L 125 kW 170 HP,"","","",0.0,15,,,34895701
+2015,BMW,BMW,i3 REx Range Extender,2 Cylinders 0.6L DI HEV SOHC,"","","",0.6,2,Hybrid,Hybrid,34895801
+2015,BMW,BMW,i8 Hybrid,3 Cylinders 1.5L Turbo HEV DOHC,"","","",1.5,3,Hybrid,Hybrid,34970301
+2015,BMW,BMW,M235i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34854401
+2015,BMW,BMW,M235i xDrive,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34854501
+2015,BMW,BMW,M3,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34791501
+2015,BMW,BMW,M4,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34791601
+2015,BMW,BMW,M5,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34854301
+2015,BMW,BMW,M6,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34791701
+2015,BMW,BMW,M6 Gran Coupe,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34791801
+2015,BMW,BMW,X1 sDrive28i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34807201
+2015,BMW,BMW,X1 xDrive28i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34807301
+2015,BMW,BMW,X1 xDrive35i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34807401
+2015,BMW,BMW,X3 sDrive28i 2WD,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34792801
+2015,BMW,BMW,X3 xDrive28d AWD,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34792901
+2015,BMW,BMW,X3 xDrive28i AWD,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34793001
+2015,BMW,BMW,X3 xDrive35i AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34793101
+2015,BMW,BMW,X4 xDrive28i AWD,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34853101
+2015,BMW,BMW,X4 xDrive35i AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34853201
+2015,BMW,BMW,X5 M AWD,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,35607301
+2015,BMW,BMW,X5 sDrive35i 2WD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34853401
+2015,BMW,BMW,X5 xDrive35d AWD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34853301
+2015,BMW,BMW,X5 xDrive35i AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34853501
+2015,BMW,BMW,X5 xDrive50i AWD,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34853601
+2015,BMW,BMW,X6 M AWD,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,35607401
+2015,BMW,BMW,X6 sDrive35i 2WD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34951501
+2015,BMW,BMW,X6 xDrive35i AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34951201
+2015,BMW,BMW,X6 xDrive50i AWD,8 Cylinders 4.4L Twin Turbo DOHC,"","","",4.4,8,,,34951301
+2015,BMW,BMW,Z4 sDrive28i,4 Cylinders 2.0L Twin Turbo DOHC,"","","",2.0,4,,,34793201
+2015,BMW,BMW,Z4 sDrive35i,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34793301
+2015,BMW,BMW,Z4 sDrive35is,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34793401
+2015,Buick,Buick,Enclave Convenience 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34797601
+2015,Buick,Buick,Enclave Leather 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34797801
+2015,Buick,Buick,Enclave Premium 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34799601
+2015,Buick,Buick,Encore 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34830701
+2015,Buick,Buick,Encore Convenience 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34830801
+2015,Buick,Buick,Encore Leather 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34830901
+2015,Buick,Buick,Encore Premium 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34831001
+2015,Buick,Buick,LaCrosse,4 Cylinders R 2.4L DI Hybrid DOHC,R,"","",2.4,4,Hybrid,Hybrid,34829702
+2015,Buick,Buick,LaCrosse,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34829701
+2015,Buick,Buick,LaCrosse Leather,4 Cylinders R 2.4L DI Hybrid DOHC,R,"","",2.4,4,Hybrid,Hybrid,34829802
+2015,Buick,Buick,LaCrosse Leather,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34829801
+2015,Buick,Buick,LaCrosse Premium,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34829901
+2015,Buick,Buick,Regal,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34800402
+2015,Buick,Buick,Regal,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34800401
+2015,Buick,Buick,Regal GS,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34800501
+2015,Buick,Buick,Regal Premium,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34800601
+2015,Buick,Buick,Regal Premium Hybrid,4 Cylinders R 2.4L DI Hybrid DOHC,R,"","",2.4,4,Hybrid,Hybrid,34800701
+2015,Buick,Buick,Verano,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34870301
+2015,Buick,Buick,Verano Convenience,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34870401
+2015,Buick,Buick,Verano Leather,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34870501
+2015,Buick,Buick,Verano Premium,4 Cylinders V 2.0L Turbo FFV DOHC,V,"","",2.0,4,Flex,Flex,34831101
+2015,Cadillac,Cadillac,ATS,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34766602
+2015,Cadillac,Cadillac,ATS,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34766601
+2015,Cadillac,Cadillac,ATS Luxury,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34766703
+2015,Cadillac,Cadillac,ATS Luxury,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34766701
+2015,Cadillac,Cadillac,ATS Luxury,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34766702
+2015,Cadillac,Cadillac,ATS Performance,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34766801
+2015,Cadillac,Cadillac,ATS Performance,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34766802
+2015,Cadillac,Cadillac,ATS Premium,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34766901
+2015,Cadillac,Cadillac,ATS Premium,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34766902
+2015,Cadillac,Cadillac,CTS,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34830001
+2015,Cadillac,Cadillac,CTS Luxury,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34830101
+2015,Cadillac,Cadillac,CTS Luxury,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34830102
+2015,Cadillac,Cadillac,CTS Performance,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34830201
+2015,Cadillac,Cadillac,CTS Performance,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34830202
+2015,Cadillac,Cadillac,CTS Premium,4 Cylinders X 2.0L DI Turbo DOHC,X,"","",2.0,4,,,34830301
+2015,Cadillac,Cadillac,CTS Premium,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34830302
+2015,Cadillac,Cadillac,CTS Vsport,6 Cylinders 8 3.6L Twin Turbo DOHC,8,"","",3.6,6,,,34830401
+2015,Cadillac,Cadillac,CTS Vsport Premium,6 Cylinders 8 3.6L Twin Turbo DOHC,8,"","",3.6,6,,,34830501
+2015,Cadillac,Cadillac,CTS-V,8 Cylinders P 6.2L MFI SC OHV,P,"","",6.2,8,,,34798001
+2015,Cadillac,Cadillac,Escalade 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34754001
+2015,Cadillac,Cadillac,Escalade ESV 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34754601
+2015,Cadillac,Cadillac,Escalade ESV Luxury 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34754801
+2015,Cadillac,Cadillac,Escalade ESV Platinum 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34990001
+2015,Cadillac,Cadillac,Escalade ESV Premium 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34755001
+2015,Cadillac,Cadillac,Escalade Luxury 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34754201
+2015,Cadillac,Cadillac,Escalade Platinum 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34989801
+2015,Cadillac,Cadillac,Escalade Premium 2WD,8 Cylinders J 6.2L FI FFV OHV,J,"","",6.2,8,Flex,Flex,34754401
+2015,Cadillac,Cadillac,SRX 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34798101
+2015,Cadillac,Cadillac,SRX Luxury 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34798201
+2015,Cadillac,Cadillac,SRX Performance 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34798401
+2015,Cadillac,Cadillac,SRX Premium 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34798601
+2015,Cadillac,Cadillac,XTS,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34798801
+2015,Cadillac,Cadillac,XTS Livery,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34799201
+2015,Cadillac,Cadillac,XTS Luxury,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34798901
+2015,Cadillac,Cadillac,XTS Platinum,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34799301
+2015,Cadillac,Cadillac,XTS Premium,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34799101
+2015,Cadillac,Cadillac,XTS Vsport Platinum,6 Cylinders 8 3.6L Twin Turbo DOHC,8,"","",3.6,6,,,34799401
+2015,Cadillac,Cadillac,XTS Vsport Premium,6 Cylinders 8 3.6L Twin Turbo DOHC,8,"","",3.6,6,,,34799501
+2015,Capacity Of Texas,Capacity,TJ5000,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35839402
+2015,Capacity Of Texas,Capacity,TJ6500,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35921202
+2015,Caterpillar,Caterpillar,CT660,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,35839802
+2015,Caterpillar,Caterpillar,CT660,6 Cylinders 15.2 DI  Turbo,"","","",15.2,6,,,35839803
+2015,Caterpillar,Caterpillar,CT680,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,35839902
+2015,Caterpillar,Caterpillar,CT681,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,37029901
+2015,Chevrolet,Chevrolet,Camaro LS,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34800801
+2015,Chevrolet,Chevrolet,Camaro LT,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34800901
+2015,Chevrolet,Chevrolet,Camaro SS,8 Cylinders J 6.2L FI OHV,J,"","",6.2,8,,,34801001
+2015,Chevrolet,Chevrolet,Camaro SS,8 Cylinders W 6.2L FI OHV,W,"","",6.2,8,,,34801002
+2015,Chevrolet,Chevrolet,Camaro Z/28,8 Cylinders E 7.0L MFI OHV,E,"","",7.0,8,,,34801701
+2015,Chevrolet,Chevrolet,Camaro ZL1,8 Cylinders P 6.2L FI SC OHV,P,"","",6.2,8,,,34801501
+2015,Chevrolet,Chevrolet,Caprice PPV,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34831201
+2015,Chevrolet,Chevrolet,Caprice PPV,8 Cylinders 2 6.0L MFI FFV OHV,2,"","",6.0,8,Flex,Flex,34831202
+2015,Chevrolet,Chevrolet,Captiva Sport LS 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34831501
+2015,Chevrolet,Chevrolet,Captiva Sport LT 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34831601
+2015,Chevrolet,Chevrolet,Captiva Sport LTZ 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34831701
+2015,Chevrolet,Chevrolet,City Express LS,4 Cylinders 3 2.0L MFI DOHC,3,"","",2.0,4,,,34786401
+2015,Chevrolet,Chevrolet,City Express LT,4 Cylinders 3 2.0L MFI DOHC,3,"","",2.0,4,,,34786501
+2015,Chevrolet,Chevrolet,Colorado 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34992601
+2015,Chevrolet,Chevrolet,Colorado LT 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34753401
+2015,Chevrolet,Chevrolet,Colorado LT 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34753402
+2015,Chevrolet,Chevrolet,Colorado WT 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34753301
+2015,Chevrolet,Chevrolet,Colorado WT 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34753302
+2015,Chevrolet,Chevrolet,Colorado Z71 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34891901
+2015,Chevrolet,Chevrolet,Colorado Z71 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34891902
+2015,Chevrolet,Chevrolet,Corvette Stingray,8 Cylinders 7 6.2L DI OHV,7,"","",6.2,8,,,34831901
+2015,Chevrolet,Chevrolet,Corvette Z06,8 Cylinders 6 6.2L DI SC OHV,6,"","",6.2,8,,,34831801
+2015,Chevrolet,Chevrolet,Cruze Diesel,4 Cylinders Z 2.0L Turbo Dsl DOHC,Z,"","",2.0,4,Diesel,Diesel,34802901
+2015,Chevrolet,Chevrolet,Cruze Eco,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34802501
+2015,Chevrolet,Chevrolet,Cruze L,4 Cylinders G 1.8L FI DOHC,G,"","",1.8,4,,,35414901
+2015,Chevrolet,Chevrolet,Cruze L,4 Cylinders H 1.8L MFI FFV DOHC,H,"","",1.8,4,Flex,Flex,35414902
+2015,Chevrolet,Chevrolet,Cruze LS,4 Cylinders G 1.8L FI DOHC,G,"","",1.8,4,,,34802801
+2015,Chevrolet,Chevrolet,Cruze LS,4 Cylinders H 1.8L MFI FFV DOHC,H,"","",1.8,4,Flex,Flex,34802802
+2015,Chevrolet,Chevrolet,Cruze LT,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34802601
+2015,Chevrolet,Chevrolet,Cruze LTZ,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34802701
+2015,Chevrolet,Chevrolet,Equinox L 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,35415002
+2015,Chevrolet,Chevrolet,Equinox L 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,35415001
+2015,Chevrolet,Chevrolet,Equinox LS 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34803102
+2015,Chevrolet,Chevrolet,Equinox LS 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34803101
+2015,Chevrolet,Chevrolet,Equinox LT 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34803303
+2015,Chevrolet,Chevrolet,Equinox LT 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34803301
+2015,Chevrolet,Chevrolet,Equinox LT 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34803302
+2015,Chevrolet,Chevrolet,Equinox LT 2WD,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34803304
+2015,Chevrolet,Chevrolet,Equinox LTZ 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34803503
+2015,Chevrolet,Chevrolet,Equinox LTZ 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34803501
+2015,Chevrolet,Chevrolet,Equinox LTZ 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34803502
+2015,Chevrolet,Chevrolet,Equinox LTZ 2WD,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34803504
+2015,Chevrolet,Chevrolet,Express 2500 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34832102
+2015,Chevrolet,Chevrolet,Express 2500 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832101
+2015,Chevrolet,Chevrolet,Express 2500 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832103
+2015,Chevrolet,Chevrolet,Express 2500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34832104
+2015,Chevrolet,Chevrolet,Express 2500 LS 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832203
+2015,Chevrolet,Chevrolet,Express 2500 LS 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832201
+2015,Chevrolet,Chevrolet,Express 2500 LT 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832302
+2015,Chevrolet,Chevrolet,Express 2500 LT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832301
+2015,Chevrolet,Chevrolet,Express 3500 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34832402
+2015,Chevrolet,Chevrolet,Express 3500 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832401
+2015,Chevrolet,Chevrolet,Express 3500 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832403
+2015,Chevrolet,Chevrolet,Express 3500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34832404
+2015,Chevrolet,Chevrolet,Express 3500 LS 2WD,8 Cylinders B 6.0L Bi-Fuel CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34832502
+2015,Chevrolet,Chevrolet,Express 3500 LS 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832504
+2015,Chevrolet,Chevrolet,Express 3500 LS 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832501
+2015,Chevrolet,Chevrolet,Express 3500 LS 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34832503
+2015,Chevrolet,Chevrolet,Express 3500 LT 2WD,8 Cylinders B 6.0L Bi-Fuel CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34832602
+2015,Chevrolet,Chevrolet,Express 3500 LT 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34832604
+2015,Chevrolet,Chevrolet,Express 3500 LT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832601
+2015,Chevrolet,Chevrolet,Express 3500 LT 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34832603
+2015,Chevrolet,Chevrolet,Express 4500 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34832703
+2015,Chevrolet,Chevrolet,Express 4500 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34832701
+2015,Chevrolet,Chevrolet,Express 4500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34832702
+2015,Chevrolet,Chevrolet,Impala Limited LS,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34804201
+2015,Chevrolet,Chevrolet,Impala Limited LT,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34804301
+2015,Chevrolet,Chevrolet,Impala Limited LTZ,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34804401
+2015,Chevrolet,Chevrolet,Impala Limited Police,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34892501
+2015,Chevrolet,Chevrolet,Impala LS,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34803901
+2015,Chevrolet,Chevrolet,Impala LS,6 Cylinders N 3.6L FI Bi-Fuel DOHC,N,"","",3.6,6,,,34803902
+2015,Chevrolet,Chevrolet,Impala LT,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34804001
+2015,Chevrolet,Chevrolet,Impala LT,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34804003
+2015,Chevrolet,Chevrolet,Impala LT,6 Cylinders N 3.6L FI Bi-Fuel DOHC,N,"","",3.6,6,,,34804002
+2015,Chevrolet,Chevrolet,Impala LTZ,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34804101
+2015,Chevrolet,Chevrolet,Impala LTZ,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34804102
+2015,Chevrolet,Chevrolet,Malibu LS,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34804701
+2015,Chevrolet,Chevrolet,Malibu LT,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34804502
+2015,Chevrolet,Chevrolet,Malibu LT,4 Cylinders X 2.0L FI Turbo DOHC,X,"","",2.0,4,,,34804501
+2015,Chevrolet,Chevrolet,Malibu LTZ,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34804602
+2015,Chevrolet,Chevrolet,Malibu LTZ,4 Cylinders X 2.0L FI Turbo DOHC,X,"","",2.0,4,,,34804601
+2015,Chevrolet,Chevrolet,Silverado 1500 High Country2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34768001
+2015,Chevrolet,Chevrolet,Silverado 1500 High Country2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34768003
+2015,Chevrolet,Chevrolet,Silverado 1500 High Country2WD,8 Cylinders J 6.2L FI OHV,J,"","",6.2,8,,,34768002
+2015,Chevrolet,Chevrolet,Silverado 1500 LS 2WD,6 Cylinders H 4.3L FI FFV OHV,H,"","",4.3,6,Flex,Flex,34892803
+2015,Chevrolet,Chevrolet,Silverado 1500 LS 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34892801
+2015,Chevrolet,Chevrolet,Silverado 1500 LS 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34892802
+2015,Chevrolet,Chevrolet,Silverado 1500 LT 2WD,6 Cylinders H 4.3L FI FFV OHV,H,"","",4.3,6,Flex,Flex,34767001
+2015,Chevrolet,Chevrolet,Silverado 1500 LT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34767002
+2015,Chevrolet,Chevrolet,Silverado 1500 LT 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34767003
+2015,Chevrolet,Chevrolet,Silverado 1500 LTZ 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34767801
+2015,Chevrolet,Chevrolet,Silverado 1500 LTZ 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34767803
+2015,Chevrolet,Chevrolet,Silverado 1500 LTZ 2WD,8 Cylinders J 6.2L FI OHV,J,"","",6.2,8,,,34767802
+2015,Chevrolet,Chevrolet,Silverado 1500 SSV 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34892601
+2015,Chevrolet,Chevrolet,Silverado 1500 SSV 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34892602
+2015,Chevrolet,Chevrolet,Silverado 1500 WT 2WD,6 Cylinders H 4.3L FI FFV OHV,H,"","",4.3,6,Flex,Flex,34767201
+2015,Chevrolet,Chevrolet,Silverado 1500 WT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34767202
+2015,Chevrolet,Chevrolet,Silverado 1500 WT 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34767203
+2015,Chevrolet,Chevrolet,Silverado 2500HD High Cty 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34833604
+2015,Chevrolet,Chevrolet,Silverado 2500HD High Cty 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34833601
+2015,Chevrolet,Chevrolet,Silverado 2500HD High Cty 2WD,8 Cylinders B 6.0L MFI OHV,B,"","",6.0,8,,,34833602
+2015,Chevrolet,Chevrolet,Silverado 2500HD High Cty 2WD,8 Cylinders G 6.0L MFI OHV,G,"","",6.0,8,,,34833603
+2015,Chevrolet,Chevrolet,Silverado 2500HD LT 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34755201
+2015,Chevrolet,Chevrolet,Silverado 2500HD LT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34755204
+2015,Chevrolet,Chevrolet,Silverado 2500HD LT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34755203
+2015,Chevrolet,Chevrolet,Silverado 2500HD LT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34755202
+2015,Chevrolet,Chevrolet,Silverado 2500HD LTZ 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34755401
+2015,Chevrolet,Chevrolet,Silverado 2500HD LTZ 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34755404
+2015,Chevrolet,Chevrolet,Silverado 2500HD LTZ 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34755403
+2015,Chevrolet,Chevrolet,Silverado 2500HD LTZ 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34755402
+2015,Chevrolet,Chevrolet,Silverado 2500HD WT 2WD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,34755601
+2015,Chevrolet,Chevrolet,Silverado 2500HD WT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34755604
+2015,Chevrolet,Chevrolet,Silverado 2500HD WT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34755603
+2015,Chevrolet,Chevrolet,Silverado 2500HD WT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34755602
+2015,Chevrolet,Chevrolet,Silverado 3500HD High Cty 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34833803
+2015,Chevrolet,Chevrolet,Silverado 3500HD High Cty 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34833801
+2015,Chevrolet,Chevrolet,Silverado 3500HD High Cty 2WD,8 Cylinders G 6.0L MFI OHV,G,"","",6.0,8,,,34833802
+2015,Chevrolet,Chevrolet,Silverado 3500HD LT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34756403
+2015,Chevrolet,Chevrolet,Silverado 3500HD LT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34756402
+2015,Chevrolet,Chevrolet,Silverado 3500HD LT 2WD,8 Cylinders B 6.0L Bi-Fuel CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34756404
+2015,Chevrolet,Chevrolet,Silverado 3500HD LT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34756401
+2015,Chevrolet,Chevrolet,Silverado 3500HD LTZ 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34756603
+2015,Chevrolet,Chevrolet,Silverado 3500HD LTZ 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34756602
+2015,Chevrolet,Chevrolet,Silverado 3500HD LTZ 2WD,8 Cylinders B 6.0L MFI OHV,B,"","",6.0,8,,,34756604
+2015,Chevrolet,Chevrolet,Silverado 3500HD LTZ 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34756601
+2015,Chevrolet,Chevrolet,Silverado 3500HD WT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34756803
+2015,Chevrolet,Chevrolet,Silverado 3500HD WT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34756802
+2015,Chevrolet,Chevrolet,Silverado 3500HD WT 2WD,8 Cylinders B 6.0L Bi-Fuel CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34756804
+2015,Chevrolet,Chevrolet,Silverado 3500HD WT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34756801
+2015,Chevrolet,Chevrolet,Sonic LS,4 Cylinders G 1.8L FI DOHC,G,"","",1.8,4,,,34856802
+2015,Chevrolet,Chevrolet,Sonic LS,4 Cylinders H 1.8L MFI FFV DOHC,H,"","",1.8,4,Flex,Flex,34856801
+2015,Chevrolet,Chevrolet,Sonic LT,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34856903
+2015,Chevrolet,Chevrolet,Sonic LT,4 Cylinders G 1.8L FI DOHC,G,"","",1.8,4,,,34856902
+2015,Chevrolet,Chevrolet,Sonic LT,4 Cylinders H 1.8L MFI FFV DOHC,H,"","",1.8,4,Flex,Flex,34856901
+2015,Chevrolet,Chevrolet,Sonic LTZ,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34857001
+2015,Chevrolet,Chevrolet,Sonic RS,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34857101
+2015,Chevrolet,Chevrolet,Spark EV LT (Electric),15 Cylinders 0.0L 97 kW 130 HP,"","","",0.0,15,,,34757201
+2015,Chevrolet,Chevrolet,Spark LS,4 Cylinders 9 1.2L FI DOHC,9,"","",1.2,4,,,34804801
+2015,Chevrolet,Chevrolet,Spark LT,4 Cylinders 9 1.2L FI DOHC,9,"","",1.2,4,,,34804901
+2015,Chevrolet,Chevrolet,SS,8 Cylinders W 6.2L MFI OHV,W,"","",6.2,8,,,34834001
+2015,Chevrolet,Chevrolet,Suburban LS 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34758801
+2015,Chevrolet,Chevrolet,Suburban LT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34759001
+2015,Chevrolet,Chevrolet,Suburban LTZ 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34759201
+2015,Chevrolet,Chevrolet,Tahoe LS 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34759801
+2015,Chevrolet,Chevrolet,Tahoe LT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34760001
+2015,Chevrolet,Chevrolet,Tahoe LTZ 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34760201
+2015,Chevrolet,Chevrolet,Tahoe PPV 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34893001
+2015,Chevrolet,Chevrolet,Tahoe SSV 4WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34893201
+2015,Chevrolet,Chevrolet,Traverse LS 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34805001
+2015,Chevrolet,Chevrolet,Traverse LT 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34805201
+2015,Chevrolet,Chevrolet,Traverse LTZ 2WD,6 Cylinders D 3.6L FI DOHC,D,"","",3.6,6,,,34805401
+2015,Chevrolet,Chevrolet,Trax LS 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34874001
+2015,Chevrolet,Chevrolet,Trax LT 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34874201
+2015,Chevrolet,Chevrolet,Trax LTZ 2WD,4 Cylinders B 1.4L FI Turbo DOHC,B,"","",1.4,4,,,34874401
+2015,Chevrolet,Chevrolet,Volt,4 Cylinders 4 1.4L MFI HEV DOHC,4,"","",1.4,4,Hybrid,Hybrid,34805601
+2015,Chrysler,Chrysler,200 C,4 Cylinders B 2.4L MFI SOHC,B,"","",2.4,4,,,34767401
+2015,Chrysler,Chrysler,200 C,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34767402
+2015,Chrysler,Chrysler,200 Limited,4 Cylinders B 2.4L MFI SOHC,B,"","",2.4,4,,,34767501
+2015,Chrysler,Chrysler,200 Limited,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34767502
+2015,Chrysler,Chrysler,200 LX,4 Cylinders B 2.4L MFI SOHC,B,"","",2.4,4,,,34767601
+2015,Chrysler,Chrysler,200 S,4 Cylinders B 2.4L MFI SOHC,B,"","",2.4,4,,,34767701
+2015,Chrysler,Chrysler,200 S,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34767702
+2015,Chrysler,Chrysler,300 Limited,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34975802
+2015,Chrysler,Chrysler,300 Limited,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34975801
+2015,Chrysler,Chrysler,300 S,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34975902
+2015,Chrysler,Chrysler,300 S,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34975901
+2015,Chrysler,Chrysler,300 S,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34975904
+2015,Chrysler,Chrysler,300C,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34975602
+2015,Chrysler,Chrysler,300C,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34975601
+2015,Chrysler,Chrysler,300C,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34975604
+2015,Chrysler,Chrysler,300C Platinum,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34975702
+2015,Chrysler,Chrysler,300C Platinum,6 Cylinders G 3.6L MFI FFV DOHC,G,"","",3.6,6,Flex,Flex,34975701
+2015,Chrysler,Chrysler,300C Platinum,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34975704
+2015,Chrysler,Chrysler,Town & Country Limited 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875202
+2015,Chrysler,Chrysler,Town & Country Limited 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875201
+2015,Chrysler,Chrysler,Town & Country LX 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34951402
+2015,Chrysler,Chrysler,Town & Country LX 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34951401
+2015,Chrysler,Chrysler,Town & Country S 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875302
+2015,Chrysler,Chrysler,Town & Country S 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875301
+2015,Chrysler,Chrysler,Town & Country Touring 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875402
+2015,Chrysler,Chrysler,Town & Country Touring 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875401
+2015,Chrysler,Chrysler,Town & Country Touring L 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875502
+2015,Chrysler,Chrysler,Town & Country Touring L 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875501
+2015,Crane Carrier,Crane Carrier,Low Entry,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35967801
+2015,Crane Carrier,Crane Carrier,Low Entry,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35967802
+2015,Dodge,Dodge,Challenger R/T,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34832901
+2015,Dodge,Dodge,Challenger R/T Plus,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34892101
+2015,Dodge,Dodge,Challenger Scat Pack,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34833001
+2015,Dodge,Dodge,Challenger SRT 392,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34892301
+2015,Dodge,Dodge,Challenger SRT Hellcat,8 Cylinders 9 6.2L FI SC OHV Hemi,9,"","",6.2,8,,,34892201
+2015,Dodge,Dodge,Challenger SXT,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34832801
+2015,Dodge,Dodge,Challenger SXT Plus,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34892001
+2015,Dodge,Dodge,Charger Pursuit,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34833201
+2015,Dodge,Dodge,Charger Pursuit,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34833202
+2015,Dodge,Dodge,Charger R/T,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34833501
+2015,Dodge,Dodge,Charger R/T Road & Track,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,35409701
+2015,Dodge,Dodge,Charger R/T Scat Pack,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34990401
+2015,Dodge,Dodge,Charger SE,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34833301
+2015,Dodge,Dodge,Charger SRT 392,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34975501
+2015,Dodge,Dodge,Charger SRT Hellcat,8 Cylinders 9 6.2L FI SC OHV Hemi,9,"","",6.2,8,,,34975401
+2015,Dodge,Dodge,Charger SXT,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34833401
+2015,Dodge,Dodge,Dart Aero,4 Cylinders H 1.4L MFI Turbo SOHC,H,"","",1.4,4,,,34871101
+2015,Dodge,Dodge,Dart GT,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34871201
+2015,Dodge,Dodge,Dart Limited,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34871301
+2015,Dodge,Dodge,Dart SE,4 Cylinders A 2.0L MFI DOHC,A,"","",2.0,4,,,34871401
+2015,Dodge,Dodge,Dart SXT,4 Cylinders A 2.0L MFI DOHC,A,"","",2.0,4,,,34871501
+2015,Dodge,Dodge,Dart SXT,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34871502
+2015,Dodge,Dodge,Durango Citadel 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34913101
+2015,Dodge,Dodge,Durango Citadel 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34913102
+2015,Dodge,Dodge,Durango Limited 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34913301
+2015,Dodge,Dodge,Durango Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34913302
+2015,Dodge,Dodge,Durango R/T 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34914101
+2015,Dodge,Dodge,Durango Rallye 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34913501
+2015,Dodge,Dodge,Durango Special Service 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34913901
+2015,Dodge,Dodge,Durango Special Service 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34913902
+2015,Dodge,Dodge,Durango SXT 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34913701
+2015,Dodge,Dodge,Grand Caravan AVP 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875602
+2015,Dodge,Dodge,Grand Caravan AVP 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875601
+2015,Dodge,Dodge,Grand Caravan R/T 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875702
+2015,Dodge,Dodge,Grand Caravan R/T 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875701
+2015,Dodge,Dodge,Grand Caravan SE 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875802
+2015,Dodge,Dodge,Grand Caravan SE 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875801
+2015,Dodge,Dodge,Grand Caravan SXT 2WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34875902
+2015,Dodge,Dodge,Grand Caravan SXT 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34875901
+2015,Dodge,Dodge,Journey AVP 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,35983901
+2015,Dodge,Dodge,Journey Crossroad 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34873001
+2015,Dodge,Dodge,Journey Crossroad 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34873002
+2015,Dodge,Dodge,Journey Limited 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34873201
+2015,Dodge,Dodge,Journey R/T 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34873401
+2015,Dodge,Dodge,Journey SE 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34873601
+2015,Dodge,Dodge,Journey SXT 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34873701
+2015,Dodge,Dodge,Journey SXT 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34873702
+2015,Ram,Dodge,ProMaster 1500,4 Cylinders D 3.0L Turbo Dsl DOHC,D,"","",3.0,4,Diesel,Diesel,34932202
+2015,Ram,Dodge,ProMaster 1500,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34932201
+2015,Ram,Dodge,ProMaster 2500,4 Cylinders D 3.0L Turbo Dsl DOHC,D,"","",3.0,4,Diesel,Diesel,34932302
+2015,Ram,Dodge,ProMaster 2500,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34932301
+2015,Ram,Dodge,ProMaster 3500,4 Cylinders D 3.0L Turbo Dsl DOHC,D,"","",3.0,4,Diesel,Diesel,34932402
+2015,Ram,Dodge,ProMaster 3500,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34932401
+2015,Ram,Dodge,ProMaster City,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,34991601
+2015,Ram,Dodge,ProMaster City SLT,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,34971501
+2015,Ram,Dodge,ProMaster City Tradesman,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,34991701
+2015,Ram,Dodge,ProMaster City Tradesman SLT,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,34991801
+2015,Ram,Dodge,RAM 1500 Big Horn 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34925502
+2015,Ram,Dodge,RAM 1500 Big Horn 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34925501
+2015,Ram,Dodge,RAM 1500 Big Horn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34925503
+2015,Ram,Dodge,RAM 1500 Express 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34925701
+2015,Ram,Dodge,RAM 1500 Express 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34925702
+2015,Ram,Dodge,RAM 1500 HFE 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34925901
+2015,Ram,Dodge,RAM 1500 Laramie 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34926003
+2015,Ram,Dodge,RAM 1500 Laramie 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34926001
+2015,Ram,Dodge,RAM 1500 Laramie 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34926002
+2015,Ram,Dodge,RAM 1500 Laramie Limited 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34926201
+2015,Ram,Dodge,RAM 1500 Laramie Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34926202
+2015,Ram,Dodge,RAM 1500 Laramie Longhorn 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34926401
+2015,Ram,Dodge,RAM 1500 Laramie Longhorn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34926402
+2015,Ram,Dodge,RAM 1500 Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,35864801
+2015,Ram,Dodge,RAM 1500 Limited 4WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,35864901
+2015,Ram,Dodge,RAM 1500 Lone Star 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34926602
+2015,Ram,Dodge,RAM 1500 Lone Star 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34926601
+2015,Ram,Dodge,RAM 1500 Lone Star 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34926603
+2015,Ram,Dodge,RAM 1500 Outdoorsman 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34926802
+2015,Ram,Dodge,RAM 1500 Outdoorsman 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34926801
+2015,Ram,Dodge,RAM 1500 Outdoorsman 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34926803
+2015,Ram,Dodge,RAM 1500 Rebel 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34991901
+2015,Ram,Dodge,RAM 1500 Rebel 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34991902
+2015,Ram,Dodge,RAM 1500 SLT 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34927002
+2015,Ram,Dodge,RAM 1500 SLT 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34927001
+2015,Ram,Dodge,RAM 1500 SLT 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34927003
+2015,Ram,Dodge,RAM 1500 Special Service 4WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34927401
+2015,Ram,Dodge,RAM 1500 Sport 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34927201
+2015,Ram,Dodge,RAM 1500 Tradesman 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34927502
+2015,Ram,Dodge,RAM 1500 Tradesman 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34927501
+2015,Ram,Dodge,RAM 1500 Tradesman 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34927503
+2015,Ram,Dodge,RAM 2500 Big Horn 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34903901
+2015,Ram,Dodge,RAM 2500 Big Horn 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34903903
+2015,Ram,Dodge,RAM 2500 Big Horn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34903902
+2015,Ram,Dodge,RAM 2500 Laramie 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34904101
+2015,Ram,Dodge,RAM 2500 Laramie 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34904103
+2015,Ram,Dodge,RAM 2500 Laramie 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34904102
+2015,Ram,Dodge,RAM 2500 Laramie Limited 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34904301
+2015,Ram,Dodge,RAM 2500 Laramie Limited 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34904303
+2015,Ram,Dodge,RAM 2500 Laramie Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34904302
+2015,Ram,Dodge,RAM 2500 Laramie Longhorn 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34904501
+2015,Ram,Dodge,RAM 2500 Laramie Longhorn 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34904503
+2015,Ram,Dodge,RAM 2500 Laramie Longhorn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34904502
+2015,Ram,Dodge,RAM 2500 Lone Star 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34904701
+2015,Ram,Dodge,RAM 2500 Lone Star 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34904703
+2015,Ram,Dodge,RAM 2500 Lone Star 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34904702
+2015,Ram,Dodge,RAM 2500 Outdoorsman 4WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34904901
+2015,Ram,Dodge,RAM 2500 Outdoorsman 4WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34904903
+2015,Ram,Dodge,RAM 2500 Outdoorsman 4WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34904902
+2015,Ram,Dodge,RAM 2500 Power Wagon 4WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34905401
+2015,Ram,Dodge,RAM 2500 SLT 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34905001
+2015,Ram,Dodge,RAM 2500 SLT 2WD,8 Cylinders 2 5.7L MFI CNG OHV,2,"","",5.7,8,Natural Gas,Natural Gas,34905002
+2015,Ram,Dodge,RAM 2500 SLT 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34905004
+2015,Ram,Dodge,RAM 2500 SLT 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34905003
+2015,Ram,Dodge,RAM 2500 Tradesman 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34905201
+2015,Ram,Dodge,RAM 2500 Tradesman 2WD,8 Cylinders 2 5.7L MFI CNG OHV,2,"","",5.7,8,Natural Gas,Natural Gas,34905202
+2015,Ram,Dodge,RAM 2500 Tradesman 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34905204
+2015,Ram,Dodge,RAM 2500 Tradesman 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34905203
+2015,Ram,Dodge,RAM 3500 Big Horn 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34907101
+2015,Ram,Dodge,RAM 3500 Big Horn 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34907103
+2015,Ram,Dodge,RAM 3500 Big Horn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34907102
+2015,Ram,Dodge,RAM 3500 Laramie 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34907301
+2015,Ram,Dodge,RAM 3500 Laramie 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34907303
+2015,Ram,Dodge,RAM 3500 Laramie 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34907302
+2015,Ram,Dodge,RAM 3500 Laramie Limited 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34907501
+2015,Ram,Dodge,RAM 3500 Laramie Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34907502
+2015,Ram,Dodge,RAM 3500 Laramie Longhorn 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34907701
+2015,Ram,Dodge,RAM 3500 Laramie Longhorn 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34907702
+2015,Ram,Dodge,RAM 3500 Laramie Longhorn 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34907703
+2015,Ram,Dodge,RAM 3500 Lone Star 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34907901
+2015,Ram,Dodge,RAM 3500 Lone Star 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34907903
+2015,Ram,Dodge,RAM 3500 Lone Star 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34907902
+2015,Ram,Dodge,RAM 3500 SLT 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34908101
+2015,Ram,Dodge,RAM 3500 SLT 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34908103
+2015,Ram,Dodge,RAM 3500 SLT 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34908102
+2015,Ram,Dodge,RAM 3500 Tradesman 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34908301
+2015,Ram,Dodge,RAM 3500 Tradesman 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34908303
+2015,Ram,Dodge,RAM 3500 Tradesman 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34908302
+2015,Ram,Dodge,RAM 4500 Laramie 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34930801
+2015,Ram,Dodge,RAM 4500 Laramie 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34930802
+2015,Ram,Dodge,RAM 4500 SLT 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34931001
+2015,Ram,Dodge,RAM 4500 SLT 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34931002
+2015,Ram,Dodge,RAM 4500 Tradesman 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34931201
+2015,Ram,Dodge,RAM 4500 Tradesman 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34931202
+2015,Ram,Dodge,RAM 5500 Laramie 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34931401
+2015,Ram,Dodge,RAM 5500 Laramie 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34931402
+2015,Ram,Dodge,RAM 5500 SLT 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34931601
+2015,Ram,Dodge,RAM 5500 SLT 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34931602
+2015,Ram,Dodge,RAM 5500 Tradesman 2WD,6 Cylinders L 6.7L Turbo Dsl OHV,L,"","",6.7,6,Diesel,Diesel,34931801
+2015,Ram,Dodge,RAM 5500 Tradesman 2WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34931802
+2015,Ram,Dodge,RAM C/V 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34892401
+2015,Ram,Dodge,RAM C/V Tradesman 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,36761201
+2015,Dodge,Dodge,Viper,10 Cylinders Z 8.4L FI OHV,Z,"","",8.4,10,,,34874901
+2015,Dodge,Dodge,Viper GT,10 Cylinders Z 8.4L FI OHV,Z,"","",8.4,10,,,35410201
+2015,Dodge,Dodge,Viper GTS,10 Cylinders Z 8.4L FI OHV,Z,"","",8.4,10,,,34875001
+2015,Emergency One,E-One,Emergency One,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,36063602
+2015,Emergency One,E-One,Emergency One,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36063601
+2015,El Dorado,El Dorado,Axess Low Floor,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36197701
+2015,El Dorado,El Dorado,Axess Low Floor,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,36197702
+2015,El Dorado,El Dorado,E-Z Rider II Max Low Floor,6 Cylinders 5.9L FI Turbo Diesel,"","","",5.9,6,Diesel,Diesel,36197601
+2015,El Dorado,El Dorado,E-Z Rider II Max Low Floor,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36197602
+2015,El Dorado,El Dorado,E-Z Rider II Max Low Floor,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,36197603
+2015,EvoBus,EvoBus,S 407,6 Cylinders 12.8 Turbo Dsl DOHC,"","","",12.8,6,Diesel,Diesel,36198401
+2015,EvoBus,EvoBus,S 417,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,35923002
+2015,EvoBus,EvoBus,S 417,6 Cylinders 12.8 Turbo Dsl DOHC,"","","",12.8,6,Diesel,Diesel,35923003
+2015,Fiat,Fiat,500 Abarth,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872201
+2015,Fiat,Fiat,500 c Lounge,4 Cylinders 1.4L MFI SOHC,"","","",1.4,4,,,34871701
+2015,Fiat,Fiat,500 c Pop,4 Cylinders 1.4L MFI SOHC,"","","",1.4,4,,,34871801
+2015,Fiat,Fiat,500 Lounge,4 Cylinders 1.4L MFI SOHC,"","","",1.4,4,,,34871901
+2015,Fiat,Fiat,500 Pop,4 Cylinders 1.4L MFI SOHC,"","","",1.4,4,,,34872001
+2015,Fiat,Fiat,500 Sport,4 Cylinders 1.4L MFI SOHC,"","","",1.4,4,,,34872101
+2015,Fiat,Fiat,500 Turbo,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872301
+2015,Fiat,Fiat,500e (Electric),15 Cylinders 0.0L 83 kW 111 HP,"","","",0.0,15,,,34871601
+2015,Fiat,Fiat,500L Easy,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872401
+2015,Fiat,Fiat,500L Lounge,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872501
+2015,Fiat,Fiat,500L Pop,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872601
+2015,Fiat,Fiat,500L Trekking,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,34872701
+2015,Fiat,Fiat,500L Urbana,4 Cylinders H 1.4L FI Turbo SOHC,H,"","",1.4,4,,,36015001
+2015,Ford,Ford,C-Max Energi SEL,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34847801
+2015,Ford,Ford,C-Max Hybrid SE,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34847701
+2015,Ford,Ford,C-Max Hybrid SEL,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34848701
+2015,Ford,Ford,E-350 Super Duty,10 Cylinders S 6.8L MFI CNG SOHC,S,"","",6.8,10,Natural Gas,Natural Gas,34990605
+2015,Ford,Ford,E-350 Super Duty,10 Cylinders S 6.8L MFI LPG SOHC,S,"","",6.8,10,Propane,Propane,34990606
+2015,Ford,Ford,E-350 Super Duty,10 Cylinders S 6.8L MFI SOHC,S,"","",6.8,10,,,34990604
+2015,Ford,Ford,E-350 Super Duty,8 Cylinders L 5.4L MFI CNG SOHC,L,"","",5.4,8,Natural Gas,Natural Gas,34990602
+2015,Ford,Ford,E-350 Super Duty,8 Cylinders L 5.4L MFI FFV SOHC,L,"","",5.4,8,Flex,Flex,34990601
+2015,Ford,Ford,E-350 Super Duty,8 Cylinders L 5.4L MFI LPG SOHC,L,"","",5.4,8,Propane,Propane,34990603
+2015,Ford,Ford,E-450 Super Duty,10 Cylinders S 6.8L MFI CNG SOHC,S,"","",6.8,10,Natural Gas,Natural Gas,34990705
+2015,Ford,Ford,E-450 Super Duty,10 Cylinders S 6.8L MFI LPG SOHC,S,"","",6.8,10,Propane,Propane,34990706
+2015,Ford,Ford,E-450 Super Duty,10 Cylinders S 6.8L MFI SOHC,S,"","",6.8,10,,,34990704
+2015,Ford,Ford,E-450 Super Duty,8 Cylinders L 5.4L MFI CNG SOHC,L,"","",5.4,8,Natural Gas,Natural Gas,34990702
+2015,Ford,Ford,E-450 Super Duty,8 Cylinders L 5.4L MFI FFV SOHC,L,"","",5.4,8,Flex,Flex,34990701
+2015,Ford,Ford,E-450 Super Duty,8 Cylinders L 5.4L MFI LPG SOHC,L,"","",5.4,8,Propane,Propane,34990703
+2015,Ford,Ford,Edge SE 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34962001
+2015,Ford,Ford,Edge SE 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34962002
+2015,Ford,Ford,Edge SEL 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34962201
+2015,Ford,Ford,Edge SEL 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34962202
+2015,Ford,Ford,Edge Sport 2WD,6 Cylinders P 2.7L DI Turbo DOHC,P,"","",2.7,6,,,34961801
+2015,Ford,Ford,Edge Titanium 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34962401
+2015,Ford,Ford,Edge Titanium 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34962402
+2015,Ford,Ford,Escape S 2WD,4 Cylinders 7 2.5L FI DOHC,7,"","",2.5,4,,,34817501
+2015,Ford,Ford,Escape SE 2WD,4 Cylinders 7 2.5L FI DOHC,7,"","",2.5,4,,,34817603
+2015,Ford,Ford,Escape SE 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34817602
+2015,Ford,Ford,Escape SE 2WD,4 Cylinders X 1.6L MFI Turbo DOHC,X,"","",1.6,4,,,34817601
+2015,Ford,Ford,Escape Titanium 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34817802
+2015,Ford,Ford,Escape Titanium 2WD,4 Cylinders X 1.6L MFI Turbo DOHC,X,"","",1.6,4,,,34817801
+2015,Ford,Ford,Expedition EL King Ranch 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34816701
+2015,Ford,Ford,Expedition EL Limited 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34816901
+2015,Ford,Ford,Expedition EL Platinum 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34817101
+2015,Ford,Ford,Expedition EL XL 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,36193901
+2015,Ford,Ford,Expedition EL XLT 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34817301
+2015,Ford,Ford,Expedition King Ranch 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34815901
+2015,Ford,Ford,Expedition Limited 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34816101
+2015,Ford,Ford,Expedition Platinum 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34816301
+2015,Ford,Ford,Expedition XL 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,36193701
+2015,Ford,Ford,Expedition XLT 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34816501
+2015,Ford,Ford,Explorer 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34815201
+2015,Ford,Ford,Explorer 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34815202
+2015,Ford,Ford,Explorer Limited 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34815301
+2015,Ford,Ford,Explorer Limited 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34815302
+2015,Ford,Ford,Explorer Sport 4WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34815801
+2015,Ford,Ford,Explorer XLT 2WD,4 Cylinders 9 2.0L FI Turbo DOHC,9,"","",2.0,4,,,34815401
+2015,Ford,Ford,Explorer XLT 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34815402
+2015,Ford,Ford,F-150 King Ranch 2WD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34813803
+2015,Ford,Ford,F-150 King Ranch 2WD,8 Cylinders F 5.0L FI FFV DOHC,F,"","",5.0,8,Flex,Flex,34813802
+2015,Ford,Ford,F-150 Lariat 2WD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34813204
+2015,Ford,Ford,F-150 Lariat 2WD,6 Cylinders P 2.7L DI Turbo DOHC,P,"","",2.7,6,,,34813201
+2015,Ford,Ford,F-150 Lariat 2WD,8 Cylinders F 5.0L FI FFV DOHC,F,"","",5.0,8,Flex,Flex,34813203
+2015,Ford,Ford,F-150 Platinum 2WD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34814003
+2015,Ford,Ford,F-150 Platinum 2WD,8 Cylinders F 5.0L FI FFV DOHC,F,"","",5.0,8,Flex,Flex,34814002
+2015,Ford,Ford,F-150 XL 2WD,6 Cylinders 8 3.5L FI FFV DOHC,8,"","",3.5,6,Flex,Flex,34813402
+2015,Ford,Ford,F-150 XL 2WD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34813405
+2015,Ford,Ford,F-150 XL 2WD,6 Cylinders P 2.7L DI Turbo DOHC,P,"","",2.7,6,,,34813401
+2015,Ford,Ford,F-150 XL 2WD,8 Cylinders F 5.0L FI FFV DOHC,F,"","",5.0,8,Flex,Flex,34813404
+2015,Ford,Ford,F-150 XLT 2WD,6 Cylinders 8 3.5L FI FFV DOHC,8,"","",3.5,6,Flex,Flex,34813602
+2015,Ford,Ford,F-150 XLT 2WD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34813605
+2015,Ford,Ford,F-150 XLT 2WD,6 Cylinders P 2.7L DI Turbo DOHC,P,"","",2.7,6,,,34813601
+2015,Ford,Ford,F-150 XLT 2WD,8 Cylinders F 5.0L FI FFV DOHC,F,"","",5.0,8,Flex,Flex,34813604
+2015,Ford,Ford,F-250 Super Duty KingRanch 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34768601
+2015,Ford,Ford,F-250 Super Duty KingRanch 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34768602
+2015,Ford,Ford,F-250 Super Duty Lariat 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34768801
+2015,Ford,Ford,F-250 Super Duty Lariat 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34768802
+2015,Ford,Ford,F-250 Super Duty Platinum 4WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34769001
+2015,Ford,Ford,F-250 Super Duty Platinum 4WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34769002
+2015,Ford,Ford,F-250 Super Duty XL 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34769301
+2015,Ford,Ford,F-250 Super Duty XL 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34769302
+2015,Ford,Ford,F-250 Super Duty XLT 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34769601
+2015,Ford,Ford,F-250 Super Duty XLT 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34769602
+2015,Ford,Ford,F-350 Super Duty KingRanch 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34771002
+2015,Ford,Ford,F-350 Super Duty KingRanch 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34771001
+2015,Ford,Ford,F-350 Super Duty Lariat 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34771202
+2015,Ford,Ford,F-350 Super Duty Lariat 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34771201
+2015,Ford,Ford,F-350 Super Duty Platinum 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34771402
+2015,Ford,Ford,F-350 Super Duty Platinum 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34771401
+2015,Ford,Ford,F-350 Super Duty XL 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34771602
+2015,Ford,Ford,F-350 Super Duty XL 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34771601
+2015,Ford,Ford,F-350 Super Duty XLT 2WD,8 Cylinders 6 6.2L FI FFV SOHC,6,"","",6.2,8,Flex,Flex,34771802
+2015,Ford,Ford,F-350 Super Duty XLT 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34771801
+2015,Ford,Ford,F-450 Super Duty 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,36917602
+2015,Ford,Ford,F-450 Super Duty 2WD,8 Cylinders 6.7L Turbo Dsl OHV,"","","",6.7,8,Diesel,Diesel,36917601
+2015,Ford,Ford,F-450 Super Duty 4WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,36262401
+2015,Ford,Ford,F-450 Super Duty KingRanch 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34773001
+2015,Ford,Ford,F-450 Super Duty Lariat 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34773201
+2015,Ford,Ford,F-450 Super Duty Platinum 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34773401
+2015,Ford,Ford,F-450 Super Duty XL 2WD,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,34772603
+2015,Ford,Ford,F-450 Super Duty XL 2WD,10 Cylinders 6.8L MFI CNG SOHC,"","","",6.8,10,Natural Gas,Natural Gas,34772604
+2015,Ford,Ford,F-450 Super Duty XL 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,34772601
+2015,Ford,Ford,F-450 Super Duty XL 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34772602
+2015,Ford,Ford,F-450 Super Duty XLT 2WD,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,34772803
+2015,Ford,Ford,F-450 Super Duty XLT 2WD,10 Cylinders 6.8L MFI CNG SOHC,"","","",6.8,10,Natural Gas,Natural Gas,34772804
+2015,Ford,Ford,F-450 Super Duty XLT 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,34772801
+2015,Ford,Ford,F-450 Super Duty XLT 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34772802
+2015,Ford,Ford,F-550 Super Duty 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,36917702
+2015,Ford,Ford,F-550 Super Duty 2WD,8 Cylinders 6.7L Turbo Dsl OHV,"","","",6.7,8,Diesel,Diesel,36917701
+2015,Ford,Ford,F-550 Super Duty Lariat 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34813001
+2015,Ford,Ford,F-550 Super Duty XL 2WD,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,34812601
+2015,Ford,Ford,F-550 Super Duty XL 2WD,10 Cylinders 6.8L MFI CNG SOHC,"","","",6.8,10,Natural Gas,Natural Gas,34812602
+2015,Ford,Ford,F-550 Super Duty XL 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,34812603
+2015,Ford,Ford,F-550 Super Duty XL 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34812604
+2015,Ford,Ford,F-550 Super Duty XLT 2WD,10 Cylinders 6.8L FI LPG SOHC,"","","",6.8,10,Propane,Propane,34812801
+2015,Ford,Ford,F-550 Super Duty XLT 2WD,10 Cylinders 6.8L MFI CNG SOHC,"","","",6.8,10,Natural Gas,Natural Gas,34812802
+2015,Ford,Ford,F-550 Super Duty XLT 2WD,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,34812803
+2015,Ford,Ford,F-550 Super Duty XLT 2WD,8 Cylinders T 6.7L Turbo Dsl OHV,T,"","",6.7,8,Diesel,Diesel,34812804
+2015,Ford,Ford,F53,10 Cylinders Y 6.8L MFI CNG SOHC,Y,"","",6.8,10,Natural Gas,Natural Gas,35909703
+2015,Ford,Ford,F53,10 Cylinders Y 6.8L MFI LPG SOHC,Y,"","",6.8,10,Propane,Propane,35909704
+2015,Ford,Ford,F53,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,35909702
+2015,Ford,Ford,F59,10 Cylinders Y 6.8L MFI CNG SOHC,Y,"","",6.8,10,Natural Gas,Natural Gas,35909803
+2015,Ford,Ford,F59,10 Cylinders Y 6.8L MFI LPG SOHC,Y,"","",6.8,10,Propane,Propane,35909804
+2015,Ford,Ford,F59,10 Cylinders Y 6.8L MFI SOHC,Y,"","",6.8,10,,,35909802
+2015,Ford,Ford,F650,10 Cylinders 6.8L MFI SOHC,"","","",6.8,10,,,35764903
+2015,Ford,Ford,F650,6 Cylinders C 6.7L Turbo Dsl OHV,C,"","",6.7,6,Diesel,Diesel,35764902
+2015,Ford,Ford,F750,6 Cylinders C 6.7L Turbo Dsl OHV,C,"","",6.7,6,Diesel,Diesel,35765002
+2015,Ford,Ford,Fiesta S,4 Cylinders J 1.6L FI DOHC,J,"","",1.6,4,,,34811501
+2015,Ford,Ford,Fiesta SE,3 Cylinders E 1.0L DI Turbo DOHC,E,"","",1.0,3,,,34811401
+2015,Ford,Ford,Fiesta SE,4 Cylinders J 1.6L FI DOHC,J,"","",1.6,4,,,34811402
+2015,Ford,Ford,Fiesta ST,4 Cylinders X 1.6L DI Turbo DOHC,X,"","",1.6,4,,,34811701
+2015,Ford,Ford,Fiesta Titanium,4 Cylinders J 1.6L FI DOHC,J,"","",1.6,4,,,34811601
+2015,Ford,Ford,Flex Limited 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34812101
+2015,Ford,Ford,Flex Limited AWD,6 Cylinders T 3.5L FI Turbo DOHC,T,"","",3.5,6,,,34812202
+2015,Ford,Ford,Flex SE 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34812501
+2015,Ford,Ford,Flex SEL 2WD,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34812301
+2015,Ford,Ford,Focus (Electric),15 Cylinders 4 0.0L 107 kW 143 HP,4,"","",0.0,15,,,34973301
+2015,Ford,Ford,Focus S,4 Cylinders 2 2.0L DI DOHC,2,"","",2.0,4,,,34953502
+2015,Ford,Ford,Focus S,4 Cylinders 2 2.0L FI FFV DOHC,2,"","",2.0,4,Flex,Flex,34953501
+2015,Ford,Ford,Focus SE,3 Cylinders E 1.0L DI Turbo DOHC,E,"","",1.0,3,,,34953601
+2015,Ford,Ford,Focus SE,4 Cylinders 2 2.0L DI DOHC,2,"","",2.0,4,,,34953602
+2015,Ford,Ford,Focus SE,4 Cylinders 2 2.0L FI FFV DOHC,2,"","",2.0,4,Flex,Flex,34953603
+2015,Ford,Ford,Focus ST,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34953701
+2015,Ford,Ford,Focus Titanium,4 Cylinders 2 2.0L DI DOHC,2,"","",2.0,4,,,34953802
+2015,Ford,Ford,Focus Titanium,4 Cylinders 2 2.0L FI FFV DOHC,2,"","",2.0,4,Flex,Flex,34953801
+2015,Ford,Ford,Fusion Energi SE,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34848201
+2015,Ford,Ford,Fusion Energi Titanium,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34848301
+2015,Ford,Ford,Fusion S,4 Cylinders 7 2.5L FI DOHC,7,"","",2.5,4,,,34848401
+2015,Ford,Ford,Fusion S Hybrid,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34847901
+2015,Ford,Ford,Fusion SE,4 Cylinders 7 2.5L FI DOHC,7,"","",2.5,4,,,34848503
+2015,Ford,Ford,Fusion SE,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34848504
+2015,Ford,Ford,Fusion SE,4 Cylinders D 1.5L DI Turbo DOHC,D,"","",1.5,4,,,34848501
+2015,Ford,Ford,Fusion SE Hybrid,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34848001
+2015,Ford,Ford,Fusion Titanium,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34848601
+2015,Ford,Ford,Fusion Titanium Hybrid,4 Cylinders U 2.0L MFI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34848101
+2015,Ford,Ford,Mustang EcoBoost,4 Cylinders H 2.3L FI Turbo DOHC,H,"","",2.3,4,,,34954301
+2015,Ford,Ford,Mustang EcoBoost Premium,4 Cylinders H 2.3L FI Turbo DOHC,H,"","",2.3,4,,,34954401
+2015,Ford,Ford,Mustang GT,8 Cylinders F 5.0L FI DOHC,F,"","",5.0,8,,,34756301
+2015,Ford,Ford,Mustang GT 50 Years Limited Ed,8 Cylinders F 5.0L FI DOHC,F,"","",5.0,8,,,34857201
+2015,Ford,Ford,Mustang GT Premium,8 Cylinders F 5.0L FI DOHC,F,"","",5.0,8,,,34954201
+2015,Ford,Ford,Mustang Shelby GT350,8 Cylinders Z 5.2L MFI DOHC,Z,"","",5.2,8,,,36234301
+2015,Ford,Ford,Mustang V6,6 Cylinders M 3.7L FI DOHC,M,"","",3.7,6,,,34756202
+2015,Ford,Ford,Police Interceptor,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34893503
+2015,Ford,Ford,Police Interceptor,6 Cylinders 8 3.5L MFI FFV DOHC,8,"","",3.5,6,Flex,Flex,34893501
+2015,Ford,Ford,Police Interceptor,6 Cylinders K 3.7L MFI DOHC,K,"","",3.7,6,,,34893504
+2015,Ford,Ford,Police Interceptor,6 Cylinders R 3.7L MFI DOHC,R,"","",3.7,6,,,34893703
+2015,Ford,Ford,Police Interceptor,6 Cylinders T 3.5L FI Turbo DOHC,T,"","",3.5,6,,,34893502
+2015,Ford,Ford,Special Service Police,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34893601
+2015,Ford,Ford,Taurus Limited,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34811001
+2015,Ford,Ford,Taurus Limited,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34811002
+2015,Ford,Ford,Taurus Limited,6 Cylinders 8 3.5L MFI FFV DOHC,8,"","",3.5,6,Flex,Flex,34811003
+2015,Ford,Ford,Taurus SE,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34811101
+2015,Ford,Ford,Taurus SE,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34811102
+2015,Ford,Ford,Taurus SE,6 Cylinders 8 3.5L MFI FFV DOHC,8,"","",3.5,6,Flex,Flex,34811103
+2015,Ford,Ford,Taurus SEL,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34811201
+2015,Ford,Ford,Taurus SEL,6 Cylinders 8 3.5L FI DOHC,8,"","",3.5,6,,,34811202
+2015,Ford,Ford,Taurus SEL,6 Cylinders 8 3.5L MFI FFV DOHC,8,"","",3.5,6,Flex,Flex,34811203
+2015,Ford,Ford,Taurus SHO,6 Cylinders T 3.5L FI Turbo DOHC,T,"","",3.5,6,,,34811301
+2015,Ford,Ford,Transit Connect Titanium,4 Cylinders 7 2.5L MFI CNG DOHC,7,"","",2.5,4,Natural Gas,Natural Gas,34812003
+2015,Ford,Ford,Transit Connect Titanium,4 Cylinders 7 2.5L MFI DOHC,7,"","",2.5,4,,,34812002
+2015,Ford,Ford,Transit Connect Titanium,4 Cylinders 7 2.5L MFI LPG DOHC,7,"","",2.5,4,Propane,Propane,34812004
+2015,Ford,Ford,Transit Connect XL,4 Cylinders 7 2.5L MFI CNG DOHC,7,"","",2.5,4,Natural Gas,Natural Gas,34811803
+2015,Ford,Ford,Transit Connect XL,4 Cylinders 7 2.5L MFI DOHC,7,"","",2.5,4,,,34811802
+2015,Ford,Ford,Transit Connect XL,4 Cylinders 7 2.5L MFI LPG DOHC,7,"","",2.5,4,Propane,Propane,34811804
+2015,Ford,Ford,Transit Connect XL,4 Cylinders X 1.6L DI Turbo DOHC,X,"","",1.6,4,,,34811801
+2015,Ford,Ford,Transit Connect XLT,4 Cylinders 7 2.5L MFI CNG DOHC,7,"","",2.5,4,Natural Gas,Natural Gas,34811903
+2015,Ford,Ford,Transit Connect XLT,4 Cylinders 7 2.5L MFI DOHC,7,"","",2.5,4,,,34811902
+2015,Ford,Ford,Transit Connect XLT,4 Cylinders 7 2.5L MFI LPG DOHC,7,"","",2.5,4,Propane,Propane,34811904
+2015,Ford,Ford,Transit Connect XLT,4 Cylinders X 1.6L DI Turbo DOHC,X,"","",1.6,4,,,34811901
+2015,Ford,Ford,Transit-150,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34775701
+2015,Ford,Ford,Transit-150,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34775704
+2015,Ford,Ford,Transit-150,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34775702
+2015,Ford,Ford,Transit-150,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34775703
+2015,Ford,Ford,Transit-150,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34775705
+2015,Ford,Ford,Transit-150 XL,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34775404
+2015,Ford,Ford,Transit-150 XL,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34775402
+2015,Ford,Ford,Transit-150 XL,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34775405
+2015,Ford,Ford,Transit-150 XL,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34775401
+2015,Ford,Ford,Transit-150 XL,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34775403
+2015,Ford,Ford,Transit-150 XLT,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34775504
+2015,Ford,Ford,Transit-150 XLT,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34775502
+2015,Ford,Ford,Transit-150 XLT,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34775505
+2015,Ford,Ford,Transit-150 XLT,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34775501
+2015,Ford,Ford,Transit-150 XLT,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34775503
+2015,Ford,Ford,Transit-250,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34775601
+2015,Ford,Ford,Transit-250,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34775604
+2015,Ford,Ford,Transit-250,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34775602
+2015,Ford,Ford,Transit-250,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34775603
+2015,Ford,Ford,Transit-250,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34775605
+2015,Ford,Ford,Transit-350,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34776901
+2015,Ford,Ford,Transit-350,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34776904
+2015,Ford,Ford,Transit-350,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34776902
+2015,Ford,Ford,Transit-350,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34776903
+2015,Ford,Ford,Transit-350,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34776905
+2015,Ford,Ford,Transit-350 HD,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34778001
+2015,Ford,Ford,Transit-350 HD,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34778004
+2015,Ford,Ford,Transit-350 HD,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34778002
+2015,Ford,Ford,Transit-350 HD,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34778003
+2015,Ford,Ford,Transit-350 HD,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34778005
+2015,Ford,Ford,Transit-350 HD XL,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34778101
+2015,Ford,Ford,Transit-350 HD XL,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34778102
+2015,Ford,Ford,Transit-350 HD XL,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34778103
+2015,Ford,Ford,Transit-350 HD XL,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34778105
+2015,Ford,Ford,Transit-350 HD XLT,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34778201
+2015,Ford,Ford,Transit-350 HD XLT,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34778204
+2015,Ford,Ford,Transit-350 HD XLT,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34778205
+2015,Ford,Ford,Transit-350 HD XLT,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34778203
+2015,Ford,Ford,Transit-350 XL,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34777001
+2015,Ford,Ford,Transit-350 XL,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34777004
+2015,Ford,Ford,Transit-350 XL,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34777002
+2015,Ford,Ford,Transit-350 XL,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34777003
+2015,Ford,Ford,Transit-350 XL,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34777005
+2015,Ford,Ford,Transit-350 XLT,5 Cylinders V 3.2L Turbo Dsl DOHC,V,"","",3.2,5,Diesel,Diesel,34777101
+2015,Ford,Ford,Transit-350 XLT,6 Cylinders 3.7L MFI FFV DOHC,"","","",3.7,6,Flex,Flex,34777104
+2015,Ford,Ford,Transit-350 XLT,6 Cylinders G 3.5L DI Turbo DOHC,G,"","",3.5,6,,,34777102
+2015,Ford,Ford,Transit-350 XLT,6 Cylinders M 3.7L MFI CNG DOHC,M,"","",3.7,6,Natural Gas,Natural Gas,34777103
+2015,Ford,Ford,Transit-350 XLT,6 Cylinders M 3.7L MFI LPG DOHC,M,"","",3.7,6,Propane,Propane,34777105
+2015,Freightliner,Freightliner,108SD,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35005202
+2015,Freightliner,Freightliner,108SD,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35005201
+2015,Freightliner,Freightliner,114SD,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35005303
+2015,Freightliner,Freightliner,114SD,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35005301
+2015,Freightliner,Freightliner,114SD,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35005302
+2015,Freightliner,Freightliner,Argosy,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,35005403
+2015,Freightliner,Freightliner,Argosy,6 Cylinders 14L  MFI Turbo Dsl,"","","",14.0,6,Diesel,Diesel,35005402
+2015,Freightliner,Freightliner,B2,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35688802
+2015,Freightliner,Freightliner,B2,8 Cylinders 6.0L FI Propane,"","","",6.0,8,,,35688803
+2015,Freightliner,Freightliner,Cascadia 113,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35005502
+2015,Freightliner,Freightliner,Cascadia 113,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35005503
+2015,Freightliner,Freightliner,Cascadia 113,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35005504
+2015,Freightliner,Freightliner,Cascadia 113,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35005501
+2015,Freightliner,Freightliner,Cascadia 125,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35005604
+2015,Freightliner,Freightliner,Cascadia 125,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35005602
+2015,Freightliner,Freightliner,Cascadia 125,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35005601
+2015,Freightliner,Freightliner,Cascadia 125,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35005603
+2015,Freightliner,Freightliner,Columbia 120,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35005701
+2015,Freightliner,Freightliner,Columbia 120,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,35005702
+2015,Freightliner,Freightliner,Columbia 120,6 Cylinders 14L  MFI Turbo Dsl,"","","",14.0,6,Diesel,Diesel,35005703
+2015,Freightliner,Freightliner,Coronado 122,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35005804
+2015,Freightliner,Freightliner,Coronado 122,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35005802
+2015,Freightliner,Freightliner,Coronado 122,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35005801
+2015,Freightliner,Freightliner,Coronado 122,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35005803
+2015,Freightliner,Freightliner,Coronado 132,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,35005901
+2015,Freightliner,Freightliner,Coronado 132,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35005903
+2015,Freightliner,Freightliner,Coronado 132,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35005905
+2015,Freightliner,Freightliner,Coronado 132,6 Cylinders 14L  MFI Turbo Dsl,"","","",14.0,6,Diesel,Diesel,35005902
+2015,Freightliner,Freightliner,Coronado 132,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35005904
+2015,Freightliner,Freightliner,M2 106,6 Cylinders 6.4L FI Turbo Diesel,"","","",6.4,6,Diesel,Diesel,35872401
+2015,Freightliner,Freightliner,M2 106,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35872404
+2015,Freightliner,Freightliner,M2 106,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35872403
+2015,Freightliner,Freightliner,M2 106,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35872402
+2015,Freightliner,Freightliner,M2 112,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35872501
+2015,Freightliner,Freightliner,M2 112,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35872502
+2015,Freightliner,Freightliner,M2 112,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35872503
+2015,Freightliner,Freightliner,MB Line,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36306701
+2015,Freightliner,Freightliner,MC Line,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36306801
+2015,Freightliner,Freightliner,MT45,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937002
+2015,Freightliner,Freightliner,MT45,8 Cylinders 6.0L FI Propane,"","","",6.0,8,,,35937003
+2015,Freightliner,Freightliner,MT55,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937102
+2015,Freightliner,Freightliner,MT55,8 Cylinders 6.0L FI Propane,"","","",6.0,8,,,35937103
+2015,Freightliner,Freightliner,S2C,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36306901
+2015,Freightliner,Freightliner,S2G,8 Cylinders 6.0L FI Propane,"","","",6.0,8,,,36307001
+2015,Freightliner,Freightliner,Sport Chassis 112,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36307101
+2015,Freightliner,Freightliner,Sprinter 2500 2WD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34963001
+2015,Freightliner,Freightliner,Sprinter 2500 2WD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34963002
+2015,Freightliner,Freightliner,Sprinter 3500 2WD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34963101
+2015,Freightliner,Freightliner,Sprinter 3500 2WD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34963102
+2015,Freightliner,Freightliner,XB Line,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937202
+2015,Freightliner,Freightliner,XB Straight Rail,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937302
+2015,Freightliner,Freightliner,XBA ARBOC,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36307201
+2015,Freightliner,Freightliner,XC Lowered Rail,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937403
+2015,Freightliner,Freightliner,XC Lowered Rail,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35937402
+2015,Freightliner,Freightliner,XC Modular Rail,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35937505
+2015,Freightliner,Freightliner,XC Modular Rail,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35937504
+2015,Freightliner,Freightliner,XC Modular Rail,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937503
+2015,Freightliner,Freightliner,XC Modular Rail,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35937502
+2015,Freightliner,Freightliner,XC Raised Rail,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35937605
+2015,Freightliner,Freightliner,XC Raised Rail,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35937604
+2015,Freightliner,Freightliner,XC Raised Rail,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937603
+2015,Freightliner,Freightliner,XC Raised Rail,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35937602
+2015,Freightliner,Freightliner,XC Straight Rail,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35937702
+2015,Gillig,Gillig,Low Floor,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36199002
+2015,Gillig,Gillig,Low Floor,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36199001
+2015,GMC,GMC,Acadia Denali 2WD,6 Cylinders D 3.6L DI DOHC,D,"","",3.6,6,,,34835101
+2015,GMC,GMC,Acadia SLE 2WD,6 Cylinders D 3.6L DI DOHC,D,"","",3.6,6,,,34835301
+2015,GMC,GMC,Acadia SLT 2WD,6 Cylinders D 3.6L DI DOHC,D,"","",3.6,6,,,34835501
+2015,GMC,GMC,Canyon 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34757701
+2015,GMC,GMC,Canyon 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34757702
+2015,GMC,GMC,Canyon SL 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34990501
+2015,GMC,GMC,Canyon SLE 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34757901
+2015,GMC,GMC,Canyon SLE 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34757902
+2015,GMC,GMC,Canyon SLT 2WD,4 Cylinders A 2.5L DI DOHC,A,"","",2.5,4,,,34896801
+2015,GMC,GMC,Canyon SLT 2WD,6 Cylinders 3 3.6L DI DOHC,3,"","",3.6,6,,,34896802
+2015,GMC,GMC,Savana 2500 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34835702
+2015,GMC,GMC,Savana 2500 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34835701
+2015,GMC,GMC,Savana 2500 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34835703
+2015,GMC,GMC,Savana 2500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34835704
+2015,GMC,GMC,Savana 2500 LS 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34835802
+2015,GMC,GMC,Savana 2500 LS 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34835801
+2015,GMC,GMC,Savana 2500 LT 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34835902
+2015,GMC,GMC,Savana 2500 LT 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34835901
+2015,GMC,GMC,Savana 3500 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34836002
+2015,GMC,GMC,Savana 3500 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34836001
+2015,GMC,GMC,Savana 3500 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34836003
+2015,GMC,GMC,Savana 3500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34836004
+2015,GMC,GMC,Savana 3500 LS 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34836103
+2015,GMC,GMC,Savana 3500 LS 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34836101
+2015,GMC,GMC,Savana 3500 LS 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34836102
+2015,GMC,GMC,Savana 3500 LT 2WD,8 Cylinders F 4.8L MFI FFV OHV,F,"","",4.8,8,Flex,Flex,34836203
+2015,GMC,GMC,Savana 3500 LT 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34836201
+2015,GMC,GMC,Savana 3500 LT 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34836202
+2015,GMC,GMC,Savana 4500 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34836401
+2015,GMC,GMC,Savana 4500 2WD,8 Cylinders G 6.0L MFI FFV OHV,G,"","",6.0,8,Flex,Flex,34836402
+2015,GMC,GMC,Savana 4500 2WD,8 Cylinders L 6.6L Turbo Dsl OHV,L,"","",6.6,8,Diesel,Diesel,34836403
+2015,GMC,GMC,Sierra 1500 2WD,6 Cylinders H 4.3L FI FFV OHV,H,"","",4.3,6,Flex,Flex,34769801
+2015,GMC,GMC,Sierra 1500 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34769802
+2015,GMC,GMC,Sierra 1500 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34769803
+2015,GMC,GMC,Sierra 1500 Denali 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34770401
+2015,GMC,GMC,Sierra 1500 Denali 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34770403
+2015,GMC,GMC,Sierra 1500 Denali 2WD,8 Cylinders J 6.2L FI OHV,J,"","",6.2,8,,,34770402
+2015,GMC,GMC,Sierra 1500 SLE 2WD,6 Cylinders H 4.3L FI FFV OHV,H,"","",4.3,6,Flex,Flex,34770001
+2015,GMC,GMC,Sierra 1500 SLE 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34770002
+2015,GMC,GMC,Sierra 1500 SLE 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34770003
+2015,GMC,GMC,Sierra 1500 SLT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34770201
+2015,GMC,GMC,Sierra 1500 SLT 2WD,8 Cylinders C 5.3L FI OHV,C,"","",5.3,8,,,34770203
+2015,GMC,GMC,Sierra 1500 SLT 2WD,8 Cylinders J 6.2L FI OHV,J,"","",6.2,8,,,34770202
+2015,GMC,GMC,Sierra 2500HD 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34760403
+2015,GMC,GMC,Sierra 2500HD 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34760404
+2015,GMC,GMC,Sierra 2500HD 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34760401
+2015,GMC,GMC,Sierra 2500HD 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34760402
+2015,GMC,GMC,Sierra 2500HD Denali 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34761502
+2015,GMC,GMC,Sierra 2500HD Denali 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34761503
+2015,GMC,GMC,Sierra 2500HD Denali 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34761501
+2015,GMC,GMC,Sierra 2500HD SLE 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34760603
+2015,GMC,GMC,Sierra 2500HD SLE 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34760604
+2015,GMC,GMC,Sierra 2500HD SLE 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34760601
+2015,GMC,GMC,Sierra 2500HD SLE 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34760602
+2015,GMC,GMC,Sierra 2500HD SLT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34760803
+2015,GMC,GMC,Sierra 2500HD SLT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34760804
+2015,GMC,GMC,Sierra 2500HD SLT 2WD,8 Cylinders B 6.0L MFI CNG OHV,B,"","",6.0,8,Natural Gas,Natural Gas,34760801
+2015,GMC,GMC,Sierra 2500HD SLT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34760802
+2015,GMC,GMC,Sierra 3500HD 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34761902
+2015,GMC,GMC,Sierra 3500HD 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34761903
+2015,GMC,GMC,Sierra 3500HD 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34761901
+2015,GMC,GMC,Sierra 3500HD Denali 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34762102
+2015,GMC,GMC,Sierra 3500HD Denali 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34762103
+2015,GMC,GMC,Sierra 3500HD Denali 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34762101
+2015,GMC,GMC,Sierra 3500HD SLE 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34762302
+2015,GMC,GMC,Sierra 3500HD SLE 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34762303
+2015,GMC,GMC,Sierra 3500HD SLE 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34762301
+2015,GMC,GMC,Sierra 3500HD SLT 2WD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,34762502
+2015,GMC,GMC,Sierra 3500HD SLT 2WD,8 Cylinders 8 6.6L Turbo Dsl OHV,8,"","",6.6,8,Diesel,Diesel,34762503
+2015,GMC,GMC,Sierra 3500HD SLT 2WD,8 Cylinders G 6.0L FI FFV OHV,G,"","",6.0,8,Flex,Flex,34762501
+2015,GMC,GMC,Terrain Denali 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34836802
+2015,GMC,GMC,Terrain Denali 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34836801
+2015,GMC,GMC,Terrain Denali 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34836803
+2015,GMC,GMC,Terrain Denali 2WD,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34836804
+2015,GMC,GMC,Terrain SL 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,35419302
+2015,GMC,GMC,Terrain SL 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,35419301
+2015,GMC,GMC,Terrain SLE 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34837002
+2015,GMC,GMC,Terrain SLE 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34837001
+2015,GMC,GMC,Terrain SLE 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34837003
+2015,GMC,GMC,Terrain SLE 2WD,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34837004
+2015,GMC,GMC,Terrain SLT 2WD,4 Cylinders K 2.4L DI DOHC,K,"","",2.4,4,,,34837202
+2015,GMC,GMC,Terrain SLT 2WD,4 Cylinders K 2.4L FI FFV DOHC,K,"","",2.4,4,Flex,Flex,34837201
+2015,GMC,GMC,Terrain SLT 2WD,6 Cylinders 3 3.6L DI FFV DOHC,3,"","",3.6,6,Flex,Flex,34837203
+2015,GMC,GMC,Terrain SLT 2WD,6 Cylinders 3 3.6L FI DOHC,3,"","",3.6,6,,,34837205
+2015,GMC,GMC,Yukon Denali 2WD,8 Cylinders J 6.2L DI FFV OHV,J,"","",6.2,8,Flex,Flex,34763702
+2015,GMC,GMC,Yukon SLE 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34762901
+2015,GMC,GMC,Yukon SLT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34763101
+2015,GMC,GMC,Yukon XL 1500 Denali 2WD,8 Cylinders J 6.2L DI FFV OHV,J,"","",6.2,8,Flex,Flex,34763902
+2015,GMC,GMC,Yukon XL SLE 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34763301
+2015,GMC,GMC,Yukon XL SLT 2WD,8 Cylinders C 5.3L DI FFV OHV,C,"","",5.3,8,Flex,Flex,34763501
+2015,Hino,Hino,195,4 Cylinders 5.0L Turbo Diesel,"","","",5.0,4,Diesel,Diesel,36203901
+2015,Hino,Hino,195h,4 Cylinders 5.0L Turbo HEV/Dsl,"","","",5.0,4,Hybrid,Hybrid,36204001
+2015,Hino,Hino,258,6 Cylinders 8 7.7L Turbo Diesel,8,"","",7.7,6,Diesel,Diesel,36204101
+2015,Hino,Hino,268,6 Cylinders 8 7.7L Turbo Diesel,8,"","",7.7,6,Diesel,Diesel,36204201
+2015,Hino,Hino,338,6 Cylinders 8 7.7L Turbo Diesel,8,"","",7.7,6,Diesel,Diesel,36204301
+2015,Honda,Honda,Accord EX,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34893801
+2015,Honda,Honda,Accord EX-L,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34893901
+2015,Honda,Honda,Accord EX-L,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34893902
+2015,Honda,Honda,Accord Hybrid,4 Cylinders 2.0L MFI HEV DOHC,"","","",2.0,4,Hybrid,Hybrid,34894001
+2015,Honda,Honda,Accord Hybrid EX-L,4 Cylinders 2.0L MFI HEV DOHC,"","","",2.0,4,Hybrid,Hybrid,34894101
+2015,Honda,Honda,Accord Hybrid Touring,4 Cylinders 2.0L MFI HEV DOHC,"","","",2.0,4,Hybrid,Hybrid,34894201
+2015,Honda,Honda,Accord LX,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34894301
+2015,Honda,Honda,Accord LX-S,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34894401
+2015,Honda,Honda,Accord Sport,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34894601
+2015,Honda,Honda,Accord Touring,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34894701
+2015,Honda,Honda,Civic EX,4 Cylinders 1.8L FI SOHC,"","","",1.8,4,,,34916101
+2015,Honda,Honda,Civic EX-L,4 Cylinders 1.8L FI SOHC,"","","",1.8,4,,,34916201
+2015,Honda,Honda,Civic HF,4 Cylinders 1.8L FI SOHC,"","","",1.8,4,,,34916301
+2015,Honda,Honda,Civic Hybrid,4 Cylinders 1.5L FI HEV SOHC,"","","",1.5,4,Hybrid,Hybrid,34916501
+2015,Honda,Honda,Civic Hybrid-L,4 Cylinders 1.5L FI HEV SOHC,"","","",1.5,4,Hybrid,Hybrid,34916601
+2015,Honda,Honda,Civic LX,4 Cylinders 1.8L FI SOHC,"","","",1.8,4,,,34916401
+2015,Honda,Honda,Civic Natural Gas,4 Cylinders 1.8L MFI CNG SOHC,"","","",1.8,4,Natural Gas,Natural Gas,34916701
+2015,Honda,Honda,Civic SE,4 Cylinders 1.8L FI SOHC,"","","",1.8,4,,,34952001
+2015,Honda,Honda,Civic Si,4 Cylinders 2.4L FI DOHC,"","","",2.4,4,,,34916801
+2015,Honda,Honda,CR-V EX 2WD,4 Cylinders 2.4L FI DOHC i-VTEC,"","","",2.4,4,,,34859301
+2015,Honda,Honda,CR-V EX-L 2WD,4 Cylinders 2.4L FI DOHC i-VTEC,"","","",2.4,4,,,34859501
+2015,Honda,Honda,CR-V LX 2WD,4 Cylinders 2.4L FI DOHC i-VTEC,"","","",2.4,4,,,34859701
+2015,Honda,Honda,CR-V Touring 2WD,4 Cylinders 2.4L DI DOHC,"","","",2.4,4,,,34952401
+2015,Honda,Honda,CR-Z,4 Cylinders 1.5L FI HEV SOHC,"","","",1.5,4,Hybrid,Hybrid,34893301
+2015,Honda,Honda,CR-Z EX,4 Cylinders 1.5L FI HEV SOHC,"","","",1.5,4,Hybrid,Hybrid,34893401
+2015,Honda,Honda,Crosstour EX,4 Cylinders 2.4L MFI DOHC,"","","",2.4,4,,,34894801
+2015,Honda,Honda,Crosstour EX,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34894802
+2015,Honda,Honda,Crosstour EX-L,4 Cylinders 2.4L MFI DOHC,"","","",2.4,4,,,34894901
+2015,Honda,Honda,Crosstour EX-L,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34894902
+2015,Honda,Honda,Fit EX,4 Cylinders 1.5L DI DOHC i-VTEC,"","","",1.5,4,,,34857601
+2015,Honda,Honda,Fit EX-L,4 Cylinders 1.5L DI DOHC i-VTEC,"","","",1.5,4,,,34857501
+2015,Honda,Honda,Fit LX,4 Cylinders 1.5L DI DOHC i-VTEC,"","","",1.5,4,,,34857701
+2015,Honda,Honda,Odyssey EX,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858801
+2015,Honda,Honda,Odyssey EX-L,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858901
+2015,Honda,Honda,Odyssey LX,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34859001
+2015,Honda,Honda,Odyssey Touring,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34859101
+2015,Honda,Honda,Odyssey Touring Elite,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34859201
+2015,Honda,Honda,Pilot EX 2WD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34857801
+2015,Honda,Honda,Pilot EX-L 2WD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858001
+2015,Honda,Honda,Pilot LX 2WD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858201
+2015,Honda,Honda,Pilot SE 2WD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858401
+2015,Honda,Honda,Pilot Touring 2WD,6 Cylinders 3.5L FI SOHC,"","","",3.5,6,,,34858601
+2015,Hyundai,Hyundai,Accent GLS,4 Cylinders E 1.6L DI DOHC,E,"","",1.6,4,,,34952801
+2015,Hyundai,Hyundai,Accent GS,4 Cylinders E 1.6L DI DOHC,E,"","",1.6,4,,,34952901
+2015,Hyundai,Hyundai,Accent Sport,4 Cylinders E 1.6L DI DOHC,E,"","",1.6,4,,,34953001
+2015,Hyundai,Hyundai,Azera,6 Cylinders G 3.3L DI DOHC,G,"","",3.3,6,,,34917201
+2015,Hyundai,Hyundai,Azera Limited,6 Cylinders G 3.3L DI DOHC,G,"","",3.3,6,,,34977801
+2015,Hyundai,Hyundai,Elantra GT,4 Cylinders H 2.0L DI DOHC,H,"","",2.0,4,,,34917301
+2015,Hyundai,Hyundai,Elantra Limited,4 Cylinders E 1.8L MFI DOHC,E,"","",1.8,4,,,34877801
+2015,Hyundai,Hyundai,Elantra SE,4 Cylinders E 1.8L MFI DOHC,E,"","",1.8,4,,,34877701
+2015,Hyundai,Hyundai,Elantra Sport,4 Cylinders H 2.0L DI DOHC,H,"","",2.0,4,,,34877901
+2015,Hyundai,Hyundai,Equus Signature,8 Cylinders H 5.0L DI DOHC,H,"","",5.0,8,,,34878101
+2015,Hyundai,Hyundai,Equus Ultimate,8 Cylinders H 5.0L DI DOHC,H,"","",5.0,8,,,34878201
+2015,Hyundai,Hyundai,Genesis 3.8,6 Cylinders E 3.8L DI DOHC,E,"","",3.8,6,,,34860701
+2015,Hyundai,Hyundai,Genesis 5.0,8 Cylinders F 5.0L DI DOHC,F,"","",5.0,8,,,34860801
+2015,Hyundai,Hyundai,Genesis Coupe 3.8,6 Cylinders J 3.8L DI DOHC,J,"","",3.8,6,,,34916901
+2015,Hyundai,Hyundai,Genesis Coupe 3.8 R-Spec,6 Cylinders J 3.8L DI DOHC,J,"","",3.8,6,,,34917001
+2015,Hyundai,Hyundai,Genesis Coupe 3.8 Ultimate,6 Cylinders J 3.8L DI DOHC,J,"","",3.8,6,,,34917101
+2015,Hyundai,Hyundai,Santa Fe GLS 2WD,6 Cylinders F 3.3L DI DOHC,F,"","",3.3,6,,,34917801
+2015,Hyundai,Hyundai,Santa Fe Limited 2WD,6 Cylinders F 3.3L DI DOHC,F,"","",3.3,6,,,34918001
+2015,Hyundai,Hyundai,Santa Fe Sport 2.0T 2WD,4 Cylinders A 2.0L DI Turbo DOHC,A,"","",2.0,4,,,34917601
+2015,Hyundai,Hyundai,Santa Fe Sport 2WD,4 Cylinders B 2.4L DI DOHC,B,"","",2.4,4,,,34917401
+2015,Hyundai,Hyundai,Sonata Eco,4 Cylinders A 1.6L DI Turbo DOHC,A,"","",1.6,4,,,34895101
+2015,Hyundai,Hyundai,Sonata Hybrid,4 Cylinders 4 2.4L MFI HEV DOHC,4,"","",2.4,4,Hybrid,Hybrid,34878301
+2015,Hyundai,Hyundai,Sonata Hybrid Limited,4 Cylinders 4 2.4L MFI HEV DOHC,4,"","",2.4,4,Hybrid,Hybrid,34878401
+2015,Hyundai,Hyundai,Sonata Limited,4 Cylinders F 2.4L DI DOHC,F,"","",2.4,4,,,34859901
+2015,Hyundai,Hyundai,Sonata Limited 2.0T,4 Cylinders B 2.0L FI Turbo DOHC,B,"","",2.0,4,,,34978301
+2015,Hyundai,Hyundai,Sonata SE,4 Cylinders F 2.4L DI DOHC,F,"","",2.4,4,,,34860001
+2015,Hyundai,Hyundai,Sonata Sport,4 Cylinders F 2.4L DI DOHC,F,"","",2.4,4,,,34860101
+2015,Hyundai,Hyundai,Sonata Sport 2.0T,4 Cylinders B 2.0L FI Turbo DOHC,B,"","",2.0,4,,,34860201
+2015,Hyundai,Hyundai,Tucson Fuel Cell 2WD(Electric),15 Cylinders 0.0L 100 kW 134 HP,"","","",0.0,15,,,34978801
+2015,Hyundai,Hyundai,Tucson GLS 2WD,4 Cylinders F 2.0L FI DOHC,F,"","",2.0,4,,,34879201
+2015,Hyundai,Hyundai,Tucson Limited 2WD,4 Cylinders G 2.4L DI DOHC,G,"","",2.4,4,,,34879001
+2015,Hyundai,Hyundai,Tucson SE 2WD,4 Cylinders G 2.4L DI DOHC,G,"","",2.4,4,,,34878801
+2015,Hyundai,Hyundai,Veloster,4 Cylinders D 1.6L DI DOHC,D,"","",1.6,4,,,34878501
+2015,Hyundai,Hyundai,Veloster RE: FLEX,4 Cylinders D 1.6L DI DOHC,D,"","",1.6,4,,,35163301
+2015,Hyundai,Hyundai,Veloster Turbo,4 Cylinders E 1.6L DI Turbo DOHC,E,"","",1.6,4,,,34878601
+2015,Hyundai,Hyundai,Veloster Turbo R-Spec,4 Cylinders E 1.6L DI Turbo DOHC,E,"","",1.6,4,,,34878701
+2015,IC Corporation,IC Co,1300 FBC,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35907702
+2015,IC Corporation,IC Co,AC Commercial Bus,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35653802
+2015,IC Corporation,IC Co,AE School Bus,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35907202
+2015,IC Corporation,IC Co,AR School Bus,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35907302
+2015,IC Corporation,IC Co,BE School Bus,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35582502
+2015,IC Corporation,IC Co,CE Commercial,6 Cylinders 5.9L MFI Turbo Dsl,"","","",5.9,6,Diesel,Diesel,35582603
+2015,IC Corporation,IC Co,CE Commercial,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35582604
+2015,IC Corporation,IC Co,CE Commercial,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35582602
+2015,IC Corporation,IC Co,CE Integrated,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35907402
+2015,IC Corporation,IC Co,CE School Bus,6 Cylinders 5.9L FI Turbo Diesel,"","","",5.9,6,Diesel,Diesel,35491402
+2015,IC Corporation,IC Co,CE School Bus,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35491404
+2015,IC Corporation,IC Co,CE School Bus,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35491403
+2015,IC Corporation,IC Co,HC Integrated Commercial,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35582703
+2015,IC Corporation,IC Co,HC Integrated Commercial,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35582702
+2015,IC Corporation,IC Co,RE Commercial,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35907502
+2015,IC Corporation,IC Co,RE School Bus,6 Cylinders 7.6L MFI Turbo Dsl,"","","",7.6,6,Diesel,Diesel,35907602
+2015,Infiniti,Infiniti,Q40,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34954001
+2015,Infiniti,Infiniti,Q50,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34876001
+2015,Infiniti,Infiniti,Q50 Hybrid Premium,6 Cylinders 3.5L MFI HEV DOHC,"","","",3.5,6,Hybrid,Hybrid,34876401
+2015,Infiniti,Infiniti,Q50 Hybrid Sport,6 Cylinders 3.5L MFI HEV DOHC,"","","",3.5,6,Hybrid,Hybrid,34876301
+2015,Infiniti,Infiniti,Q50 Premium,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34876201
+2015,Infiniti,Infiniti,Q50 Sport,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34876101
+2015,Infiniti,Infiniti,Q60,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34954101
+2015,Infiniti,Infiniti,Q60 IPL,6 Cylinders C 3.7L MFI DOHC,C,"","",3.7,6,,,34954701
+2015,Infiniti,Infiniti,Q60 Journey,6 Cylinders C 3.7L MFI DOHC,C,"","",3.7,6,,,34955001
+2015,Infiniti,Infiniti,Q60 S,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,35686401
+2015,Infiniti,Infiniti,Q60 S Limited,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,35686501
+2015,Infiniti,Infiniti,Q70 3.7,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34876601
+2015,Infiniti,Infiniti,Q70 5.6,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34876701
+2015,Infiniti,Infiniti,Q70 Hybrid,6 Cylinders 3.5L MFI HEV DOHC,"","","",3.5,6,Hybrid,Hybrid,34876501
+2015,Infiniti,Infiniti,Q70L 3.7,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34876801
+2015,Infiniti,Infiniti,Q70L 5.6,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34876901
+2015,Infiniti,Infiniti,QX50 2WD,6 Cylinders B 3.7L MFI DOHC,B,"","",3.7,6,,,34860301
+2015,Infiniti,Infiniti,QX50 Journey 2WD,6 Cylinders B 3.7L MFI DOHC,B,"","",3.7,6,,,34860501
+2015,Infiniti,Infiniti,QX60 2WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34877001
+2015,Infiniti,Infiniti,QX60 Hybrid 2WD,4 Cylinders 2.5L MPI SC HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34877201
+2015,Infiniti,Infiniti,QX70 2WD,6 Cylinders C 3.7L MFI DOHC,C,"","",3.7,6,,,34861101
+2015,Infiniti,Infiniti,QX80 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34877401
+2015,International,International,4300,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35787904
+2015,International,International,4300,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35787902
+2015,International,International,4300,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35787903
+2015,International,International,4300LP,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35788002
+2015,International,International,4300LP,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,35788003
+2015,International,International,4400,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35788102
+2015,International,International,4400,6 Cylinders 9.3L FI Turbo Diesel,"","","",9.3,6,Diesel,Diesel,35788103
+2015,International,International,4400,6 Cylinders 9.3L Turbo Dsl SOHC,"","","",9.3,6,Diesel,Diesel,35788104
+2015,International,International,4400LP,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35788202
+2015,International,International,4400LP,6 Cylinders 9.3L Turbo Dsl SOHC,"","","",9.3,6,Diesel,Diesel,35788203
+2015,International,International,7300,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35788302
+2015,International,International,7400,6 Cylinders 7.6L FI Turbo Diesel,"","","",7.6,6,Diesel,Diesel,35788402
+2015,International,International,7400,6 Cylinders 8.7L MFI Turbo Dsl,"","","",8.7,6,Diesel,Diesel,35788404
+2015,International,International,7400,6 Cylinders 9.3L FI Turbo Diesel,"","","",9.3,6,Diesel,Diesel,35788403
+2015,International,International,7500,6 Cylinders 9.3L Turbo Dsl SOHC,"","","",9.3,6,Diesel,Diesel,36034801
+2015,International,International,7600,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,36207901
+2015,International,International,8600 TranStar,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,35788503
+2015,International,International,8600 TranStar,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35788502
+2015,International,International,9900i,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,36208001
+2015,International,International,LoneStar,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,36034901
+2015,International,International,ProStar Pro LA677,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,35939802
+2015,International,International,ProStar Pro LF677,6 Cylinders 12.4 DI Turbo Diesel,"","","",12.4,6,Diesel,Diesel,35939702
+2015,International,International,ProStar Pro LF677,6 Cylinders 12.4 Turbo Dsl SOHC,"","","",12.4,6,Diesel,Diesel,35939703
+2015,International,International,ProStar Pro LF687,6 Cylinders 12.4 Turbo Dsl SOHC,"","","",12.4,6,Diesel,Diesel,35788603
+2015,International,International,ProStar Pro LF687,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35788602
+2015,International,International,TerraStar,8 Cylinders 6.4L Turbo Dsl SOHC,"","","",6.4,8,Diesel,Diesel,36034701
+2015,Isuzu,Isuzu,NPR,4 Cylinders 3.0L Turbo Diesel,"","","",3.0,4,Diesel,Diesel,36036001
+2015,Isuzu,Isuzu,NPR,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,36036002
+2015,Isuzu,Isuzu,NPR,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,36036003
+2015,Isuzu,Isuzu,NPR-HD,4 Cylinders 6 5.2L Turbo Diesel,6,"","",5.2,4,Diesel,Diesel,36036101
+2015,Isuzu,Isuzu,NPR-HD,8 Cylinders 6.0L MFI CNG OHV,"","","",6.0,8,Natural Gas,Natural Gas,36036102
+2015,Isuzu,Isuzu,NPR-HD,8 Cylinders 6.0L MFI OHV,"","","",6.0,8,,,36036103
+2015,Isuzu,Isuzu,NPR-XD,4 Cylinders 6 5.2L Turbo Diesel,6,"","",5.2,4,Diesel,Diesel,36594001
+2015,Isuzu,Isuzu,NQR,4 Cylinders 6 5.2L Turbo Diesel,6,"","",5.2,4,Diesel,Diesel,36036901
+2015,Isuzu,Isuzu,NRR,4 Cylinders 6 5.2L Turbo Diesel,6,"","",5.2,4,Diesel,Diesel,36037001
+2015,Isuzu,Isuzu,Reach,4 Cylinders 3.0L Turbo Diesel,"","","",3.0,4,Diesel,Diesel,36117601
+2015,Jaguar,Jaguar,F-Type,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34787001
+2015,Jaguar,Jaguar,F-Type R,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34787301
+2015,Jaguar,Jaguar,F-Type S,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34787101
+2015,Jaguar,Jaguar,F-Type V8 S,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34787201
+2015,Jaguar,Jaguar,XF Portfolio,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34895401
+2015,Jaguar,Jaguar,XF Premium,4 Cylinders S 2.0L DI Turbo DOHC,S,"","",2.0,4,,,34895601
+2015,Jaguar,Jaguar,XF Sport,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34895501
+2015,Jaguar,Jaguar,XF Supercharged,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34862501
+2015,Jaguar,Jaguar,XFR,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34862601
+2015,Jaguar,Jaguar,XFR-S,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34862701
+2015,Jaguar,Jaguar,XJ,6 Cylinders D 3.0L DI SC DOHC,D,"","",3.0,6,,,34880901
+2015,Jaguar,Jaguar,XJ,6 Cylinders Z 3.0L DI SC FFV DOHC,Z,"","",3.0,6,Flex,Flex,34880902
+2015,Jaguar,Jaguar,XJ Supercharged,8 Cylinders 5.0L DI SC DOHC,"","","",5.0,8,,,34880101
+2015,Jaguar,Jaguar,XJL Portfolio,6 Cylinders D 3.0L DI SC DOHC,D,"","",3.0,6,,,34881001
+2015,Jaguar,Jaguar,XJL Portfolio,6 Cylinders Z 3.0L DI SC FFV DOHC,Z,"","",3.0,6,Flex,Flex,34881002
+2015,Jaguar,Jaguar,XJL Supercharged,8 Cylinders 5.0L DI SC DOHC,"","","",5.0,8,,,34880201
+2015,Jaguar,Jaguar,XJR,8 Cylinders K 5.0L DI SC DOHC,K,"","",5.0,8,,,34879901
+2015,Jaguar,Jaguar,XJR L,8 Cylinders K 5.0L DI SC DOHC,K,"","",5.0,8,,,34880001
+2015,Jaguar,Jaguar,XK,8 Cylinders 5.0L FI DOHC,"","","",5.0,8,,,34787401
+2015,Jaguar,Jaguar,XKR,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34787501
+2015,Jaguar,Jaguar,XKR-S,8 Cylinders 5.0L FI SC DOHC,"","","",5.0,8,,,34787601
+2015,Jeep,Jeep,Cherokee Latitude 2WD,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34806501
+2015,Jeep,Jeep,Cherokee Latitude 2WD,6 Cylinders S 3.2L FI DOHC,S,"","",3.2,6,,,34806502
+2015,Jeep,Jeep,Cherokee Limited 2WD,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34806701
+2015,Jeep,Jeep,Cherokee Limited 2WD,6 Cylinders S 3.2L FI DOHC,S,"","",3.2,6,,,34806702
+2015,Jeep,Jeep,Cherokee Sport 2WD,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34806901
+2015,Jeep,Jeep,Cherokee TrailHawk 4WD,4 Cylinders B 2.4L FI SOHC,B,"","",2.4,4,,,34807101
+2015,Jeep,Jeep,Cherokee TrailHawk 4WD,6 Cylinders S 3.2L FI DOHC,S,"","",3.2,6,,,34807102
+2015,Jeep,Jeep,Compass Altitude 4WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,36088701
+2015,Jeep,Jeep,Compass High Altitude 4WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,36088801
+2015,Jeep,Jeep,Compass Latitude 2WD,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34880301
+2015,Jeep,Jeep,Compass Latitude 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34880302
+2015,Jeep,Jeep,Compass Limited 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34880601
+2015,Jeep,Jeep,Compass Sport 2WD,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34880401
+2015,Jeep,Jeep,Compass Sport 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34880402
+2015,Jeep,Jeep,Grand Cherokee Laredo 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34861601
+2015,Jeep,Jeep,Grand Cherokee Limited 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34861801
+2015,Jeep,Jeep,Grand Cherokee Limited 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34861803
+2015,Jeep,Jeep,Grand Cherokee Limited 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34861802
+2015,Jeep,Jeep,Grand Cherokee Overland 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34862001
+2015,Jeep,Jeep,Grand Cherokee Overland 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34862003
+2015,Jeep,Jeep,Grand Cherokee Overland 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34862002
+2015,Jeep,Jeep,Grand Cherokee SRT 4WD,8 Cylinders J 6.4L FI OHV Hemi,J,"","",6.4,8,,,34862401
+2015,Jeep,Jeep,Grand Cherokee Summit 2WD,6 Cylinders G 3.6L FI FFV DOHC,G,"","",3.6,6,Flex,Flex,34862201
+2015,Jeep,Jeep,Grand Cherokee Summit 2WD,6 Cylinders M 3.0L Turbo Dsl DOHC,M,"","",3.0,6,Diesel,Diesel,34862203
+2015,Jeep,Jeep,Grand Cherokee Summit 2WD,8 Cylinders T 5.7L FI OHV Hemi,T,"","",5.7,8,,,34862202
+2015,Jeep,Jeep,Patriot Latitude 2WD,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34862801
+2015,Jeep,Jeep,Patriot Latitude 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34862802
+2015,Jeep,Jeep,Patriot Limited 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34863001
+2015,Jeep,Jeep,Patriot Sport 2WD,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34863201
+2015,Jeep,Jeep,Patriot Sport 2WD,4 Cylinders B 2.4L FI DOHC,B,"","",2.4,4,,,34863202
+2015,Jeep,Jeep,Renegade Latitude 2WD,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,35408201
+2015,Jeep,Jeep,Renegade Latitude 2WD,4 Cylinders H 1.4L MFI Turbo SOHC,H,"","",1.4,4,,,35408202
+2015,Jeep,Jeep,Renegade Limited 2WD,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,35408301
+2015,Jeep,Jeep,Renegade Sport 2WD,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,35408101
+2015,Jeep,Jeep,Renegade Sport 2WD,4 Cylinders H 1.4L MFI Turbo SOHC,H,"","",1.4,4,,,35408102
+2015,Jeep,Jeep,Renegade Trailhawk 4WD,4 Cylinders 2.4L MFI SOHC,"","","",2.4,4,,,34949201
+2015,Jeep,Jeep,Wrangler Rubicon 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881101
+2015,Jeep,Jeep,Wrangler Sahara 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881201
+2015,Jeep,Jeep,Wrangler Sport 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881301
+2015,Jeep,Jeep,Wrangler Unlimited Rubicon 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881601
+2015,Jeep,Jeep,Wrangler Unlimited Sahara 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881401
+2015,Jeep,Jeep,Wrangler Unlimited Sport 4WD,6 Cylinders G 3.6L FI DOHC,G,"","",3.6,6,,,34881501
+2015,Kalmar,Kalmar,Ottawa 4 X 2,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35493301
+2015,Kalmar,Kalmar,Ottawa 6 X 4,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35493401
+2015,Kalmar,Kalmar,Ottawa T2,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,36470701
+2015,Kenworth,Kenworth,C500,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35035602
+2015,Kenworth,Kenworth,C500,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35035601
+2015,Kenworth,Kenworth,K270,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36394601
+2015,Kenworth,Kenworth,K370,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36394701
+2015,Kenworth,Kenworth,T170,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35035701
+2015,Kenworth,Kenworth,T270,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35035802
+2015,Kenworth,Kenworth,T270,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35035801
+2015,Kenworth,Kenworth,T370,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35035903
+2015,Kenworth,Kenworth,T370,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35035901
+2015,Kenworth,Kenworth,T370,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35035902
+2015,Kenworth,Kenworth,T400,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35036001
+2015,Kenworth,Kenworth,T400,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35036002
+2015,Kenworth,Kenworth,T660,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35036101
+2015,Kenworth,Kenworth,T660,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35036104
+2015,Kenworth,Kenworth,T660,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35036105
+2015,Kenworth,Kenworth,T660,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036103
+2015,Kenworth,Kenworth,T660,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036102
+2015,Kenworth,Kenworth,T680,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35036205
+2015,Kenworth,Kenworth,T680,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35036204
+2015,Kenworth,Kenworth,T680,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35036203
+2015,Kenworth,Kenworth,T680,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036202
+2015,Kenworth,Kenworth,T680,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036201
+2015,Kenworth,Kenworth,T700,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036302
+2015,Kenworth,Kenworth,T700,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036301
+2015,Kenworth,Kenworth,T800,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35036401
+2015,Kenworth,Kenworth,T800,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35036404
+2015,Kenworth,Kenworth,T800,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35036405
+2015,Kenworth,Kenworth,T800,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036403
+2015,Kenworth,Kenworth,T800,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036402
+2015,Kenworth,Kenworth,T800,6 Cylinders 15L  Natural Gas,"","","",15.0,6,Natural Gas,Natural Gas,35036406
+2015,Kenworth,Kenworth,T880,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35036504
+2015,Kenworth,Kenworth,T880,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35036505
+2015,Kenworth,Kenworth,T880,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35036503
+2015,Kenworth,Kenworth,T880,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036502
+2015,Kenworth,Kenworth,T880,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036501
+2015,Kenworth,Kenworth,W900,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35036604
+2015,Kenworth,Kenworth,W900,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35036603
+2015,Kenworth,Kenworth,W900,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35036601
+2015,Kenworth,Kenworth,W900,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35036602
+2015,Kenworth,Kenworth,W900,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35036605
+2015,Kia,Kia,Cadenza Limited,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34834101
+2015,Kia,Kia,Cadenza Premium,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34834201
+2015,Kia,Kia,Forte EX,4 Cylinders 8 2.0L FI DOHC,8,"","",2.0,4,,,34834501
+2015,Kia,Kia,Forte Koup EX,4 Cylinders 8 2.0L FI DOHC,8,"","",2.0,4,,,34834701
+2015,Kia,Kia,Forte Koup SX,4 Cylinders 3 1.6L DI Turbo DOHC,3,"","",1.6,4,,,34834601
+2015,Kia,Kia,Forte LX,4 Cylinders 6 1.8L MFI DOHC,6,"","",1.8,4,,,34834401
+2015,Kia,Kia,Forte5 EX,4 Cylinders 8 2.0L FI DOHC,8,"","",2.0,4,,,35970901
+2015,Kia,Kia,Forte5 SX,4 Cylinders 3 1.6L DI Turbo DOHC,3,"","",1.6,4,,,34834301
+2015,Kia,Kia,K900 V8 Luxury,8 Cylinders 4 5.0L DI DOHC,4,"","",5.0,8,,,34770601
+2015,Kia,Kia,K900 V8 Premium,8 Cylinders 4 5.0L DI DOHC,4,"","",5.0,8,,,36178701
+2015,Kia,Kia,Optima EX,4 Cylinders 7 2.4L FI DOHC,7,"","",2.4,4,,,34879401
+2015,Kia,Kia,Optima Hybrid EX,4 Cylinders D 2.4L MFI HEV DOHC,D,"","",2.4,4,Hybrid,Hybrid,34950801
+2015,Kia,Kia,Optima Hybrid LX,4 Cylinders D 2.4L MFI HEV DOHC,D,"","",2.4,4,Hybrid,Hybrid,34950901
+2015,Kia,Kia,Optima Limited,4 Cylinders 6 2.0L FI Turbo DOHC,6,"","",2.0,4,,,34879801
+2015,Kia,Kia,Optima LX,4 Cylinders 7 2.4L FI DOHC,7,"","",2.4,4,,,34879501
+2015,Kia,Kia,Optima SX,4 Cylinders 7 2.4L FI DOHC,7,"","",2.4,4,,,34879601
+2015,Kia,Kia,Optima SX Turbo,4 Cylinders 6 2.0L FI Turbo DOHC,6,"","",2.0,4,,,34879701
+2015,Kia,Kia,Optima SXL Turbo,4 Cylinders 6 2.0L DI Turbo DOHC,6,"","",2.0,4,,,36693001
+2015,Kia,Kia,Rio EX,4 Cylinders 3 1.6L FI DOHC,3,"","",1.6,4,,,34921501
+2015,Kia,Kia,Rio LX,4 Cylinders 3 1.6L FI DOHC,3,"","",1.6,4,,,34921601
+2015,Kia,Kia,Rio SX,4 Cylinders 3 1.6L FI DOHC,3,"","",1.6,4,,,34921701
+2015,Kia,Kia,Sedona EX,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,34834801
+2015,Kia,Kia,Sedona L,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,34971101
+2015,Kia,Kia,Sedona Limited,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,35971001
+2015,Kia,Kia,Sedona LX,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,34834901
+2015,Kia,Kia,Sedona SX,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,34971201
+2015,Kia,Kia,Sedona SXL,6 Cylinders 1 3.3L DI DOHC,1,"","",3.3,6,,,34835001
+2015,Kia,Kia,Sorento EX 2WD,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34772201
+2015,Kia,Kia,Sorento Limited 2WD,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34787701
+2015,Kia,Kia,Sorento LX 2WD,4 Cylinders 6 2.4L FI DOHC,6,"","",2.4,4,,,34772001
+2015,Kia,Kia,Sorento LX 2WD,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34772002
+2015,Kia,Kia,Sorento SX 2WD,6 Cylinders 7 3.3L DI DOHC,7,"","",3.3,6,,,34772401
+2015,Kia,Kia,Soul,4 Cylinders 2 1.6L DI DOHC,2,"","",1.6,4,,,34921801
+2015,Kia,Kia,Soul !,4 Cylinders 5 2.0L DI DOHC,5,"","",2.0,4,,,34921901
+2015,Kia,Kia,Soul +,4 Cylinders 5 2.0L DI DOHC,5,"","",2.0,4,,,34922001
+2015,Kia,Kia,Soul EV (Electric),15 Cylinders 0.0L 81 kW 109 HP,"","","",0.0,15,,,34922101
+2015,Kia,Kia,Soul EV + (Electric),15 Cylinders 0.0L 81 kW 109 HP,"","","",0.0,15,,,35647301
+2015,Kia,Kia,Sportage EX 2WD,4 Cylinders C 2.4L DI DOHC,C,"","",2.4,4,,,34922201
+2015,Kia,Kia,Sportage LX 2WD,4 Cylinders C 2.4L DI DOHC,C,"","",2.4,4,,,34922401
+2015,Kia,Kia,Sportage SX 2WD,4 Cylinders 6 2.0L DI Turbo DOHC,6,"","",2.0,4,,,34922601
+2015,Kimble Chassis,Kimble,KF3200C,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36572201
+2015,Land Rover,Land Rover,Discovery Sport HSE,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,35683201
+2015,Land Rover,Land Rover,Discovery Sport HSE Lux,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,35683301
+2015,Land Rover,Land Rover,Discovery Sport SE,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,35683101
+2015,Land Rover,Land Rover,LR2,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,34896901
+2015,Land Rover,Land Rover,LR2 HSE,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,34897001
+2015,Land Rover,Land Rover,LR2 HSE Lux,4 Cylinders G 2.0L FI Turbo DOHC,G,"","",2.0,4,,,34897101
+2015,Land Rover,Land Rover,LR4,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897201
+2015,Land Rover,Land Rover,LR4 HSE,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897301
+2015,Land Rover,Land Rover,LR4 HSE Lux,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897401
+2015,Land Rover,Land Rover,Range Rover,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897501
+2015,Land Rover,Land Rover,Range Rover Autobiography,8 Cylinders E 5.0L FI SC DOHC,E,"","",5.0,8,,,34897701
+2015,Land Rover,Land Rover,Range Rover Evoque Autobio,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34805901
+2015,Land Rover,Land Rover,Range Rover Evoque Autobio Dyn,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34806001
+2015,Land Rover,Land Rover,Range Rover Evoque Dynamic,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34806101
+2015,Land Rover,Land Rover,Range Rover Evoque Prestige,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34806201
+2015,Land Rover,Land Rover,Range Rover Evoque Pure,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34806301
+2015,Land Rover,Land Rover,Range Rover HSE,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897601
+2015,Land Rover,Land Rover,Range Rover Sport HSE,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34897901
+2015,Land Rover,Land Rover,Range Rover Sport SE,6 Cylinders 3.0L FI SC DOHC,"","","",3.0,6,,,34898001
+2015,Land Rover,Land Rover,Range Rover Sport SVR,8 Cylinders E 5.0L FI SC DOHC,E,"","",5.0,8,,,35729901
+2015,Land Rover,Land Rover,Range Rover Spt. Autobiography,8 Cylinders E 5.0L FI SC DOHC,E,"","",5.0,8,,,34898201
+2015,Land Rover,Land Rover,Range Rover Spt. Supercharged,8 Cylinders E 5.0L FI SC DOHC,E,"","",5.0,8,,,34898101
+2015,Land Rover,Land Rover,Range Rover Supercharged,8 Cylinders E 5.0L FI SC DOHC,E,"","",5.0,8,,,34897801
+2015,Lexus,Lexus,CT200h,4 Cylinders 1.8L MFI Hybrid DOHC,"","","",1.8,4,Hybrid,Hybrid,34898701
+2015,Lexus,Lexus,CT200h F Sport,4 Cylinders 1.8L MFI Hybrid DOHC,"","","",1.8,4,Hybrid,Hybrid,34898801
+2015,Lexus,Lexus,ES300h,4 Cylinders 2.5L FI HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34918201
+2015,Lexus,Lexus,ES350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34918301
+2015,Lexus,Lexus,GS350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34952501
+2015,Lexus,Lexus,GS350 F Sport,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34952601
+2015,Lexus,Lexus,GS450h,6 Cylinders 3.5L MFI Hybrid DOHC,"","","",3.5,6,Hybrid,Hybrid,34952701
+2015,Lexus,Lexus,GX460,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34918601
+2015,Lexus,Lexus,GX460 Luxury,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34918701
+2015,Lexus,Lexus,GX460 Premium,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34918801
+2015,Lexus,Lexus,IS250,6 Cylinders 2.5L MFI DOHC,"","","",2.5,6,,,34898901
+2015,Lexus,Lexus,IS250 C,6 Cylinders 2.5L MFI DOHC,"","","",2.5,6,,,34899101
+2015,Lexus,Lexus,IS250 C F Sport,6 Cylinders 2.5L MFI DOHC,"","","",2.5,6,,,34899201
+2015,Lexus,Lexus,IS250 F Sport,6 Cylinders 2.5L MFI DOHC,"","","",2.5,6,,,34899001
+2015,Lexus,Lexus,IS350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34899301
+2015,Lexus,Lexus,IS350 C,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34899501
+2015,Lexus,Lexus,IS350 C F Sport,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34899601
+2015,Lexus,Lexus,IS350 F Sport,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34899401
+2015,Lexus,Lexus,LS460,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34960101
+2015,Lexus,Lexus,LS460 F Sport,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34960201
+2015,Lexus,Lexus,LS460 L,8 Cylinders 4.6L MFI DOHC,"","","",4.6,8,,,34960401
+2015,Lexus,Lexus,LS600h L,8 Cylinders 5.0L MFI Hybrid DOHC,"","","",5.0,8,Hybrid,Hybrid,34960601
+2015,Lexus,Lexus,LX570,8 Cylinders 5.7L MFI DOHC,"","","",5.7,8,,,34899701
+2015,Lexus,Lexus,NX200t,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34899801
+2015,Lexus,Lexus,NX200t F Sport,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34899901
+2015,Lexus,Lexus,NX300h,4 Cylinders 2.5L FI HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34900001
+2015,Lexus,Lexus,RC F,8 Cylinders 5.0L FI DOHC,"","","",5.0,8,,,34953101
+2015,Lexus,Lexus,RC350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34953201
+2015,Lexus,Lexus,RC350 F Sport,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34953301
+2015,Lexus,Lexus,RX350 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34807701
+2015,Lexus,Lexus,RX350 F Sport AWD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34807901
+2015,Lexus,Lexus,RX450h 2WD,6 Cylinders 3.5L MFI Hybrid DOHC,"","","",3.5,6,Hybrid,Hybrid,34807501
+2015,Lincoln,Lincoln,MKC 2WD,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34790401
+2015,Lincoln,Lincoln,MKC AWD,4 Cylinders H 2.3L DI Turbo DOHC,H,"","",2.3,4,,,34761002
+2015,Lincoln,Lincoln,MKC Black Label 2WD,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,35634002
+2015,Lincoln,Lincoln,MKC Black Label 2WD,4 Cylinders H 2.3L DI Turbo DOHC,H,"","",2.3,4,,,35634001
+2015,Lincoln,Lincoln,MKS,6 Cylinders K 3.7L MFI DOHC,K,"","",3.7,6,,,34953901
+2015,Lincoln,Lincoln,MKS Ecoboost,6 Cylinders T 3.5L FI Turbo DOHC,T,"","",3.5,6,,,35735401
+2015,Lincoln,Lincoln,MKT 2WD,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34918902
+2015,Lincoln,Lincoln,MKT 2WD,6 Cylinders K 3.7L MFI DOHC,K,"","",3.7,6,,,34918901
+2015,Lincoln,Lincoln,MKT EcoBoost AWD,6 Cylinders T 3.5L FI Turbo DOHC,T,"","",3.5,6,,,34919001
+2015,Lincoln,Lincoln,MKX 2WD,6 Cylinders K 3.7L FI DOHC,K,"","",3.7,6,,,34898301
+2015,Lincoln,Lincoln,MKZ,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,34863401
+2015,Lincoln,Lincoln,MKZ,6 Cylinders K 3.7L MFI DOHC,K,"","",3.7,6,,,34863402
+2015,Lincoln,Lincoln,MKZ Black Label,4 Cylinders 9 2.0L DI Turbo DOHC,9,"","",2.0,4,,,35635401
+2015,Lincoln,Lincoln,MKZ Black Label,6 Cylinders K 3.7L MFI DOHC,K,"","",3.7,6,,,35635402
+2015,Lincoln,Lincoln,MKZ Black Label Hybrid,4 Cylinders U 2.0L FI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,35635501
+2015,Lincoln,Lincoln,MKZ Hybrid,4 Cylinders U 2.0L FI Hybrid DOHC,U,"","",2.0,4,Hybrid,Hybrid,34863501
+2015,Lincoln,Lincoln,Navigator 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34761101
+2015,Lincoln,Lincoln,Navigator L 2WD,6 Cylinders T 3.5L DI Turbo DOHC,T,"","",3.5,6,,,34761301
+2015,Mack,Mack,CHU CHU600,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35116001
+2015,Mack,Mack,CXU CXU600,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35116101
+2015,Mack,Mack,CXU CXU600,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35116103
+2015,Mack,Mack,CXU CXU600,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35116102
+2015,Mack,Mack,GU4 GU400,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35116201
+2015,Mack,Mack,GU5 GU500,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35116301
+2015,Mack,Mack,GU7 GU700,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35116401
+2015,Mack,Mack,GU7 GU700,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35116402
+2015,Mack,Mack,GU8 GU800,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35116501
+2015,Mack,Mack,GU8 GU800,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35116502
+2015,Mack,Mack,LEU LEU600,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35116602
+2015,Mack,Mack,LEU LEU600,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35116601
+2015,Mack,Mack,MRU MRU600,6 Cylinders 10.8 Turbo Diesel,"","","",10.8,6,Diesel,Diesel,35116702
+2015,Mack,Mack,MRU MRU600,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35116703
+2015,Mack,Mack,MRU MRU600,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35116701
+2015,Mack,Mack,TD700 TD700,6 Cylinders 16.1 Turbo Diesel,"","","",16.1,6,Diesel,Diesel,35116801
+2015,Mazda,Mazda,CX-5 Grand Touring 2WD,4 Cylinders Y 2.5L DI DOHC,Y,"","",2.5,4,,,34774001
+2015,Mazda,Mazda,CX-5 Sport 2WD,4 Cylinders E 2.0L FI DOHC,E,"","",2.0,4,,,34773601
+2015,Mazda,Mazda,CX-5 Sport 2WD,4 Cylinders Y 2.5L DI DOHC,Y,"","",2.5,4,,,34773602
+2015,Mazda,Mazda,CX-5 Touring 2WD,4 Cylinders Y 2.5L DI DOHC,Y,"","",2.5,4,,,34773801
+2015,Mazda,Mazda,CX-9 Grand Touring 2WD,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34919501
+2015,Mazda,Mazda,CX-9 Sport 2WD,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34919701
+2015,Mazda,Mazda,CX-9 Touring 2WD,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34919901
+2015,Mazda,Mazda,Mazda3 i Grand Touring,4 Cylinders 7 2.0L FI DOHC,7,"","",2.0,4,,,34955301
+2015,Mazda,Mazda,Mazda3 i Sport,4 Cylinders 7 2.0L FI DOHC,7,"","",2.0,4,,,34955501
+2015,Mazda,Mazda,Mazda3 i SV,4 Cylinders 7 2.0L FI DOHC,7,"","",2.0,4,,,34955601
+2015,Mazda,Mazda,Mazda3 i Touring,4 Cylinders 7 2.0L FI DOHC,7,"","",2.0,4,,,34955201
+2015,Mazda,Mazda,Mazda3 s Grand Touring,4 Cylinders 3 2.5L DI DOHC,3,"","",2.5,4,,,34955701
+2015,Mazda,Mazda,Mazda3 s Touring,4 Cylinders 3 2.5L DI DOHC,3,"","",2.5,4,,,34955801
+2015,Mazda,Mazda,Mazda5 Grand Touring,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34919201
+2015,Mazda,Mazda,Mazda5 Sport,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34919301
+2015,Mazda,Mazda,Mazda5 Touring,4 Cylinders L 2.5L FI DOHC,L,"","",2.5,4,,,34919401
+2015,Mazda,Mazda,Mazda6 Grand Touring,4 Cylinders 5 2.5L DI DOHC,5,"","",2.5,4,,,34774302
+2015,Mazda,Mazda,Mazda6 Grand Touring,4 Cylinders 6 2.5L FI DOHC,6,"","",2.5,4,,,34774301
+2015,Mazda,Mazda,Mazda6 Sport,4 Cylinders 5 2.5L DI DOHC,5,"","",2.5,4,,,34774402
+2015,Mazda,Mazda,Mazda6 Sport,4 Cylinders 6 2.5L FI DOHC,6,"","",2.5,4,,,34774401
+2015,Mazda,Mazda,Mazda6 Touring,4 Cylinders 5 2.5L DI DOHC,5,"","",2.5,4,,,34774502
+2015,Mazda,Mazda,Mazda6 Touring,4 Cylinders 6 2.5L FI DOHC,6,"","",2.5,4,,,34774501
+2015,Mazda,Mazda,MX-5 Miata 25th Anniversary Ed,4 Cylinders F 2.0L FI DOHC,F,"","",2.0,4,,,34864301
+2015,Mazda,Mazda,MX-5 Miata Club,4 Cylinders F 2.0L FI DOHC,F,"","",2.0,4,,,34864401
+2015,Mazda,Mazda,MX-5 Miata Grand Touring,4 Cylinders F 2.0L FI DOHC,F,"","",2.0,4,,,34864501
+2015,Mazda,Mazda,MX-5 Miata Sport,4 Cylinders F 2.0L FI DOHC,F,"","",2.0,4,,,34864601
+2015,Mercedes-Benz,Mercedes Benz,B Electric Drive (Electric),15 Cylinders 0.0L 132 kW 177 HP,"","","",0.0,15,,,35714801
+2015,Mercedes-Benz,Mercedes Benz,C250,4 Cylinders 1.8L FI Turbo DOHC,"","","",1.8,4,,,34956001
+2015,Mercedes-Benz,Mercedes Benz,C300,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35714901
+2015,Mercedes-Benz,Mercedes Benz,C300 4MATIC,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34960501
+2015,Mercedes-Benz,Mercedes Benz,C350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34956401
+2015,Mercedes-Benz,Mercedes Benz,C350 4MATIC,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34960301
+2015,Mercedes-Benz,Mercedes Benz,C400 4MATIC,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34960701
+2015,Mercedes-Benz,Mercedes Benz,C63 AMG,8 Cylinders 6.3L FI DOHC,"","","",6.3,8,,,34960801
+2015,Mercedes-Benz,Mercedes Benz,C63 AMG S,8 Cylinders 4.0L Twin Turbo DOHC,"","","",4.0,8,,,35972001
+2015,Mercedes-Benz,Mercedes Benz,CLA250,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34900501
+2015,Mercedes-Benz,Mercedes Benz,CLA250 4Matic,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34900601
+2015,Mercedes-Benz,Mercedes Benz,CLA250 4Matic,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34900602
+2015,Mercedes-Benz,Mercedes Benz,CLA45 AMG 4Matic,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34900701
+2015,Mercedes-Benz,Mercedes Benz,CLS400,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34901601
+2015,Mercedes-Benz,Mercedes Benz,CLS400 4Matic,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34901701
+2015,Mercedes-Benz,Mercedes Benz,CLS550,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34901801
+2015,Mercedes-Benz,Mercedes Benz,CLS550 4Matic,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34901901
+2015,Mercedes-Benz,Mercedes Benz,CLS63 AMG S 4Matic,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34902101
+2015,Mercedes-Benz,Mercedes Benz,E250 Bluetec,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34902201
+2015,Mercedes-Benz,Mercedes Benz,E250 Bluetec 4Matic,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34902301
+2015,Mercedes-Benz,Mercedes Benz,E350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34902401
+2015,Mercedes-Benz,Mercedes Benz,E350,6 Cylinders 3.5L Flex Fuel DOHC,"","","",3.5,6,,,34902402
+2015,Mercedes-Benz,Mercedes Benz,E350 4Matic,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34902501
+2015,Mercedes-Benz,Mercedes Benz,E350 4Matic,6 Cylinders 3.5L Flex Fuel DOHC,"","","",3.5,6,,,34902502
+2015,Mercedes-Benz,Mercedes Benz,E400,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34902601
+2015,Mercedes-Benz,Mercedes Benz,E400 4Matic,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34902701
+2015,Mercedes-Benz,Mercedes Benz,E400 Hybrid,6 Cylinders 3.5L FI HEV DOHC,"","","",3.5,6,Hybrid,Hybrid,34902801
+2015,Mercedes-Benz,Mercedes Benz,E550,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34960901
+2015,Mercedes-Benz,Mercedes Benz,E63 AMG 4Matic,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34902901
+2015,Mercedes-Benz,Mercedes Benz,E63 AMG S 4Matic,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34903001
+2015,Mercedes-Benz,Mercedes Benz,G550 AWD,8 Cylinders 5.5L FI DOHC,"","","",5.5,8,,,34903101
+2015,Mercedes-Benz,Mercedes Benz,G63 AMG AWD,8 Cylinders 5.5L DI Turbo DOHC,"","","",5.5,8,,,34903201
+2015,Mercedes-Benz,Mercedes Benz,GL350 BlueTEC 4MATIC AWD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34863801
+2015,Mercedes-Benz,Mercedes Benz,GL450 4Matic AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34903301
+2015,Mercedes-Benz,Mercedes Benz,GL550 4Matic AWD,8 Cylinders 4.6L DI Turbo DOHC,"","","",4.6,8,,,34836301
+2015,Mercedes-Benz,Mercedes Benz,GL63 AMG,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34863701
+2015,Mercedes-Benz,Mercedes Benz,GLA250 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34903401
+2015,Mercedes-Benz,Mercedes Benz,GLA250 4Matic AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34903501
+2015,Mercedes-Benz,Mercedes Benz,GLA250 4Matic AWD,4 Cylinders 2.0L Turbo FFV DOHC,"","","",2.0,4,Flex,Flex,34903502
+2015,Mercedes-Benz,Mercedes Benz,GLA45 AMG 4Matic AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34903601
+2015,Mercedes-Benz,Mercedes Benz,GLK250 Bluetec 4Matic AWD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34903801
+2015,Mercedes-Benz,Mercedes Benz,GLK350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34863601
+2015,Mercedes-Benz,Mercedes Benz,GLK350 4Matic AWD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34836501
+2015,Mercedes-Benz,Mercedes Benz,ML250 Bluetec 4Matic AWD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34906101
+2015,Mercedes-Benz,Mercedes Benz,ML350 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34906201
+2015,Mercedes-Benz,Mercedes Benz,ML350 4MATIC AWD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34906301
+2015,Mercedes-Benz,Mercedes Benz,ML350 4MATIC AWD,6 Cylinders 3.5L Flex Fuel DOHC,"","","",3.5,6,,,34906302
+2015,Mercedes-Benz,Mercedes Benz,ML400 4Matic AWD,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34906401
+2015,Mercedes-Benz,Mercedes Benz,ML63 AMG AWD,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34906501
+2015,Mercedes-Benz,Mercedes Benz,S550,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34836601
+2015,Mercedes-Benz,Mercedes Benz,S550 4MATIC,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34836701
+2015,Mercedes-Benz,Mercedes Benz,S550e,6 Cylinders 3.0L Turbo HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,36311301
+2015,Mercedes-Benz,Mercedes Benz,S600,12 Cylinders 6.0L FI Twin Turbo,"","","",6.0,12,,,34837401
+2015,Mercedes-Benz,Mercedes Benz,S63 AMG,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34837501
+2015,Mercedes-Benz,Mercedes Benz,S65 AMG,12 Cylinders 6.0L FI Twin Turbo,"","","",6.0,12,,,34958201
+2015,Mercedes-Benz,Mercedes Benz,SL400,6 Cylinders 3.0L Twin Turbo DOHC,"","","",3.0,6,,,34961001
+2015,Mercedes-Benz,Mercedes Benz,SL550,8 Cylinders 4.6L DI Twin Turbo,"","","",4.6,8,,,34906601
+2015,Mercedes-Benz,Mercedes Benz,SL63 AMG,8 Cylinders 5.5L DI Twin Turbo,"","","",5.5,8,,,34906701
+2015,Mercedes-Benz,Mercedes Benz,SL65 AMG,12 Cylinders 6.0L FI Twin Turbo,"","","",6.0,12,,,34961101
+2015,Mercedes-Benz,Mercedes Benz,SLK250,4 Cylinders 1.8L FI Turbo DOHC,"","","",1.8,4,,,34884901
+2015,Mercedes-Benz,Mercedes Benz,SLK350,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34885001
+2015,Mercedes-Benz,Mercedes Benz,SLK55 AMG,8 Cylinders 5.5L FI DOHC,"","","",5.5,8,,,34885101
+2015,Mercedes-Benz,Mercedes Benz,SLS AMG GT,8 Cylinders 6.3L FI DOHC,"","","",6.3,8,,,34837601
+2015,Mercedes-Benz,Mercedes Benz,Sprinter 2500 Van 2WD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34906801
+2015,Mercedes-Benz,Mercedes Benz,Sprinter 2500 Van 2WD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34906802
+2015,Mercedes-Benz,Mercedes Benz,Sprinter 3500 Van 2WD,4 Cylinders 2.1L Turbo Dsl DOHC,"","","",2.1,4,Diesel,Diesel,34906901
+2015,Mercedes-Benz,Mercedes Benz,Sprinter 3500 Van 2WD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34906902
+2015,Mini,Mini,Cooper,3 Cylinders 1.5L DI Turbo DOHC,"","","",1.5,3,,,34882502
+2015,Mini,Mini,Cooper,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34882501
+2015,Mini,Mini,Cooper Countryman,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34882801
+2015,Mini,Mini,Cooper JCW's Countryman ALL4,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34882901
+2015,Mini,Mini,Cooper JCW's Paceman ALL4,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34883301
+2015,Mini,Mini,Cooper John Cooper Works,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34882601
+2015,Mini,Mini,Cooper John Cooper Works,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34882602
+2015,Mini,Mini,Cooper Paceman,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34883201
+2015,Mini,Mini,Cooper S,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34882701
+2015,Mini,Mini,Cooper S,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34882702
+2015,Mini,Mini,Cooper S Countryman,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34883001
+2015,Mini,Mini,Cooper S Countryman ALL4,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34883101
+2015,Mini,Mini,Cooper S Paceman,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34883401
+2015,Mini,Mini,Cooper S Paceman ALL4,4 Cylinders 1.6L FI Turbo DOHC,"","","",1.6,4,,,34883501
+2015,Mitsubishi,Mitsubishi,Canter FE125 FEC52S,4 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,4,Diesel,Diesel,36349201
+2015,Mitsubishi,Mitsubishi,Canter FE160 FEC72S,4 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,4,Diesel,Diesel,36349301
+2015,Mitsubishi,Mitsubishi,Canter FE160 FEC72W,4 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,4,Diesel,Diesel,36349401
+2015,Mitsubishi,Mitsubishi,Canter FE180 FEC92S,4 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,4,Diesel,Diesel,36349501
+2015,Mitsubishi,Mitsubishi,Canter FG4X4 FGB72S,4 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,4,Diesel,Diesel,36349601
+2015,Mitsubishi,Mitsubishi,Lancer ES,4 Cylinders U 2.0L FI DOHC,U,"","",2.0,4,,,34881701
+2015,Mitsubishi,Mitsubishi,Lancer Evolution Final Edition,4 Cylinders V 2.0L MFI Turbo DOHC,V,"","",2.0,4,,,36021101
+2015,Mitsubishi,Mitsubishi,Lancer Evolution GSR,4 Cylinders V 2.0L MFI Turbo DOHC,V,"","",2.0,4,,,34881901
+2015,Mitsubishi,Mitsubishi,Lancer Evolution MR,4 Cylinders V 2.0L MFI Turbo DOHC,V,"","",2.0,4,,,34882001
+2015,Mitsubishi,Mitsubishi,Lancer GT,4 Cylinders W 2.4L FI DOHC,W,"","",2.4,4,,,34882101
+2015,Mitsubishi,Mitsubishi,Lancer Ralliart,4 Cylinders V 2.0L MFI Turbo DOHC,V,"","",2.0,4,,,34882301
+2015,Mitsubishi,Mitsubishi,Lancer SE,4 Cylinders W 2.4L FI DOHC,W,"","",2.4,4,,,34882401
+2015,Mitsubishi,Mitsubishi,Mirage DE,3 Cylinders J 1.2L MFI DOHC,J,"","",1.2,3,,,34883701
+2015,Mitsubishi,Mitsubishi,Mirage ES,3 Cylinders J 1.2L MFI DOHC,J,"","",1.2,3,,,34883601
+2015,Mitsubishi,Mitsubishi,Mirage RF,3 Cylinders J 1.2L MFI DOHC,J,"","",1.2,3,,,36021201
+2015,Mitsubishi,Mitsubishi,Outlander ES 2WD,4 Cylinders 3 2.4L FI SOHC,3,"","",2.4,4,,,34884101
+2015,Mitsubishi,Mitsubishi,Outlander GT AWD,6 Cylinders X 3.0L FI SOHC,X,"","",3.0,6,,,34884201
+2015,Mitsubishi,Mitsubishi,Outlander SE 2WD,4 Cylinders 3 2.4L FI SOHC,3,"","",2.4,4,,,34884301
+2015,Mitsubishi,Mitsubishi,Outlander Sport ES 2WD,4 Cylinders U 2.0L FI DOHC,U,"","",2.0,4,,,34884501
+2015,Mitsubishi,Mitsubishi,Outlander Sport ES 2WD,4 Cylinders W 2.4L FI DOHC,W,"","",2.4,4,,,34884502
+2015,Mitsubishi,Mitsubishi,Outlander Sport GT 2WD,4 Cylinders W 2.4L FI DOHC,W,"","",2.4,4,,,35735601
+2015,Mitsubishi,Mitsubishi,Outlander Sport SE 2WD,4 Cylinders U 2.0L FI DOHC,U,"","",2.0,4,,,34884701
+2015,Mobility Ventures,Mobility Ventures,MV-1 DX,6 Cylinders M 3.7L FI DOHC,M,"","",3.7,6,,,36089903
+2015,Mobility Ventures,Mobility Ventures,MV-1 DX,8 Cylinders 6 4.6L MFI CNG SOHC,6,"","",4.6,8,Natural Gas,Natural Gas,36089902
+2015,Mobility Ventures,Mobility Ventures,MV-1 DX,8 Cylinders 6 4.6L MFI SOHC,6,"","",4.6,8,,,36089901
+2015,Mobility Ventures,Mobility Ventures,MV-1 LX,6 Cylinders M 3.7L FI DOHC,M,"","",3.7,6,,,36090003
+2015,Mobility Ventures,Mobility Ventures,MV-1 LX,8 Cylinders 6 4.6L MFI CNG SOHC,6,"","",4.6,8,Natural Gas,Natural Gas,36090002
+2015,Mobility Ventures,Mobility Ventures,MV-1 LX,8 Cylinders 6 4.6L MFI SOHC,6,"","",4.6,8,,,36090001
+2015,Mobility Ventures,Mobility Ventures,MV-1 SE,6 Cylinders M 3.7L FI DOHC,M,"","",3.7,6,,,36090103
+2015,Mobility Ventures,Mobility Ventures,MV-1 SE,8 Cylinders 6 4.6L MFI CNG SOHC,6,"","",4.6,8,Natural Gas,Natural Gas,36090102
+2015,Mobility Ventures,Mobility Ventures,MV-1 SE,8 Cylinders 6 4.6L MFI SOHC,6,"","",4.6,8,,,36090101
+2015,New Flyer,New Flyer,Xcelsior,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,36654601
+2015,New Flyer,New Flyer,Xcelsior,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36654603
+2015,New Flyer,New Flyer,Xcelsior,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,36654602
+2015,New Flyer,New Flyer,Xcelsior,6 Cylinders 8.9L Turbo Elec/Dsl,"","","",8.9,6,Hybrid,Hybrid,36654604
+2015,Nissan/Datsun,Nissan/Datsun,370Z,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34900801
+2015,Nissan/Datsun,Nissan/Datsun,370Z Nismo,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34900901
+2015,Nissan/Datsun,Nissan/Datsun,370Z Nismo Tech,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,35718301
+2015,Nissan/Datsun,Nissan/Datsun,370Z Sport,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34901001
+2015,Nissan/Datsun,Nissan/Datsun,370Z Sport Tech,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,35718401
+2015,Nissan/Datsun,Nissan/Datsun,370Z Touring,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34901101
+2015,Nissan/Datsun,Nissan/Datsun,370Z Touring Sport,6 Cylinders 3.7L FI DOHC,"","","",3.7,6,,,34901201
+2015,Nissan/Datsun,Nissan/Datsun,Altima,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34837701
+2015,Nissan/Datsun,Nissan/Datsun,Altima S,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34837801
+2015,Nissan/Datsun,Nissan/Datsun,Altima S,6 Cylinders B 3.5L FI DOHC,B,"","",3.5,6,,,34837802
+2015,Nissan/Datsun,Nissan/Datsun,Altima SL,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34837901
+2015,Nissan/Datsun,Nissan/Datsun,Altima SL,6 Cylinders B 3.5L FI DOHC,B,"","",3.5,6,,,34837902
+2015,Nissan/Datsun,Nissan/Datsun,Altima SV,4 Cylinders A 2.5L FI DOHC,A,"","",2.5,4,,,34838001
+2015,Nissan/Datsun,Nissan/Datsun,Altima SV,6 Cylinders B 3.5L FI DOHC,B,"","",3.5,6,,,34838002
+2015,Nissan/Datsun,Nissan/Datsun,Armada Platinum 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34920702
+2015,Nissan/Datsun,Nissan/Datsun,Armada Platinum 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34920701
+2015,Nissan/Datsun,Nissan/Datsun,Armada SL 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34920902
+2015,Nissan/Datsun,Nissan/Datsun,Armada SL 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34920901
+2015,Nissan/Datsun,Nissan/Datsun,Armada SV 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34921102
+2015,Nissan/Datsun,Nissan/Datsun,Armada SV 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34921101
+2015,Nissan/Datsun,Nissan/Datsun,Frontier Desert Runner 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34922801
+2015,Nissan/Datsun,Nissan/Datsun,Frontier Pro-4X 4WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34922901
+2015,Nissan/Datsun,Nissan/Datsun,Frontier S 2WD,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34923001
+2015,Nissan/Datsun,Nissan/Datsun,Frontier S 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34923002
+2015,Nissan/Datsun,Nissan/Datsun,Frontier SL 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34923201
+2015,Nissan/Datsun,Nissan/Datsun,Frontier SV 2WD,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34923401
+2015,Nissan/Datsun,Nissan/Datsun,Frontier SV 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34923402
+2015,Nissan/Datsun,Nissan/Datsun,GT-R Black Edition,6 Cylinders 3.8L MFI Turbo DOHC,"","","",3.8,6,,,34788001
+2015,Nissan/Datsun,Nissan/Datsun,GT-R Nismo,6 Cylinders 3.8L MFI Turbo DOHC,"","","",3.8,6,,,34789201
+2015,Nissan/Datsun,Nissan/Datsun,GT-R Premium,6 Cylinders 3.8L MFI Turbo DOHC,"","","",3.8,6,,,34788101
+2015,Nissan/Datsun,Nissan/Datsun,GT-R Track Edition,6 Cylinders 3.8L MFI Turbo DOHC,"","","",3.8,6,,,34788201
+2015,Nissan/Datsun,Nissan/Datsun,Juke Nismo 2WD,4 Cylinders 1.6L MFI Turbo DOHC,"","","",1.6,4,,,34964201
+2015,Nissan/Datsun,Nissan/Datsun,Juke Nismo RS 2WD,4 Cylinders 1.6L MFI Turbo DOHC,"","","",1.6,4,,,34964501
+2015,Nissan/Datsun,Nissan/Datsun,Juke S 2WD,4 Cylinders 1.6L MFI Turbo DOHC,"","","",1.6,4,,,34963801
+2015,Nissan/Datsun,Nissan/Datsun,Juke SL 2WD,4 Cylinders 1.6L MFI Turbo DOHC,"","","",1.6,4,,,34963901
+2015,Nissan/Datsun,Nissan/Datsun,Juke SV 2WD,4 Cylinders 1.6L MFI Turbo DOHC,"","","",1.6,4,,,34964101
+2015,Nissan/Datsun,Nissan/Datsun,Leaf S (Electric),15 Cylinders 0.0L 80 kW 107 HP,"","","",0.0,15,,,34838701
+2015,Nissan/Datsun,Nissan/Datsun,Leaf SL (Electric),15 Cylinders 0.0L 80 kW 107 HP,"","","",0.0,15,,,34838801
+2015,Nissan/Datsun,Nissan/Datsun,Leaf SV (Electric),15 Cylinders 0.0L 80 kW 107 HP,"","","",0.0,15,,,34838901
+2015,Nissan/Datsun,Nissan/Datsun,Murano Platinum 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34838401
+2015,Nissan/Datsun,Nissan/Datsun,Murano Platinum 4WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34973801
+2015,Nissan/Datsun,Nissan/Datsun,Murano S 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34838101
+2015,Nissan/Datsun,Nissan/Datsun,Murano S AWD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34973401
+2015,Nissan/Datsun,Nissan/Datsun,Murano SL 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34838201
+2015,Nissan/Datsun,Nissan/Datsun,Murano SL AWD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34973501
+2015,Nissan/Datsun,Nissan/Datsun,Murano SV 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34838301
+2015,Nissan/Datsun,Nissan/Datsun,Murano SV AWD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34973601
+2015,Nissan/Datsun,Nissan/Datsun,NV1500 S,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885401
+2015,Nissan/Datsun,Nissan/Datsun,NV1500 SV,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885501
+2015,Nissan/Datsun,Nissan/Datsun,NV200 S,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34839101
+2015,Nissan/Datsun,Nissan/Datsun,NV200 SV,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34839201
+2015,Nissan/Datsun,Nissan/Datsun,NV200 Taxi,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34949501
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 S,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885601
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 S,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34885602
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 SL,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34923601
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 SL,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34923602
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 SV,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885701
+2015,Nissan/Datsun,Nissan/Datsun,NV2500 SV,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34885702
+2015,Nissan/Datsun,Nissan/Datsun,NV3500 S,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885802
+2015,Nissan/Datsun,Nissan/Datsun,NV3500 S,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34885801
+2015,Nissan/Datsun,Nissan/Datsun,NV3500 SL,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34886001
+2015,Nissan/Datsun,Nissan/Datsun,NV3500 SV,6 Cylinders B 4.0L MFI DOHC,B,"","",4.0,6,,,34885902
+2015,Nissan/Datsun,Nissan/Datsun,NV3500 SV,8 Cylinders A 5.6L MFI DOHC,A,"","",5.6,8,,,34885901
+2015,Nissan/Datsun,Nissan/Datsun,Pathfinder Platinum 2WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34923701
+2015,Nissan/Datsun,Nissan/Datsun,Pathfinder S 2WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34923901
+2015,Nissan/Datsun,Nissan/Datsun,Pathfinder SL 2WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34924101
+2015,Nissan/Datsun,Nissan/Datsun,Pathfinder SV 2WD,6 Cylinders A 3.5L FI DOHC,A,"","",3.5,6,,,34924301
+2015,Nissan/Datsun,Nissan/Datsun,Quest Platinum,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34924501
+2015,Nissan/Datsun,Nissan/Datsun,Quest S,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34924601
+2015,Nissan/Datsun,Nissan/Datsun,Quest SL,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34924701
+2015,Nissan/Datsun,Nissan/Datsun,Quest SV,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34924801
+2015,Nissan/Datsun,Nissan/Datsun,Rogue S 2WD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34839301
+2015,Nissan/Datsun,Nissan/Datsun,Rogue Select S 2WD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34925201
+2015,Nissan/Datsun,Nissan/Datsun,Rogue SL 2WD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34839401
+2015,Nissan/Datsun,Nissan/Datsun,Rogue SV 2WD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34839501
+2015,Nissan/Datsun,Nissan/Datsun,Sentra FE+S,4 Cylinders A 1.8L FI DOHC,A,"","",1.8,4,,,34927701
+2015,Nissan/Datsun,Nissan/Datsun,Sentra S,4 Cylinders A 1.8L FI DOHC,A,"","",1.8,4,,,34927801
+2015,Nissan/Datsun,Nissan/Datsun,Sentra SL,4 Cylinders A 1.8L FI DOHC,A,"","",1.8,4,,,34927901
+2015,Nissan/Datsun,Nissan/Datsun,Sentra SR,4 Cylinders A 1.8L FI DOHC,A,"","",1.8,4,,,34928001
+2015,Nissan/Datsun,Nissan/Datsun,Sentra SV,4 Cylinders A 1.8L FI DOHC,A,"","",1.8,4,,,34928101
+2015,Nissan/Datsun,Nissan/Datsun,Titan Pro-4X 4WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34928201
+2015,Nissan/Datsun,Nissan/Datsun,Titan Pro-4X 4WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34928202
+2015,Nissan/Datsun,Nissan/Datsun,Titan S 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34928301
+2015,Nissan/Datsun,Nissan/Datsun,Titan S 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34928302
+2015,Nissan/Datsun,Nissan/Datsun,Titan SL 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34928501
+2015,Nissan/Datsun,Nissan/Datsun,Titan SL 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34928502
+2015,Nissan/Datsun,Nissan/Datsun,Titan SV 2WD,8 Cylinders 5.6L FI DOHC,"","","",5.6,8,,,34928701
+2015,Nissan/Datsun,Nissan/Datsun,Titan SV 2WD,8 Cylinders 5.6L MFI FFV DOHC,"","","",5.6,8,Flex,Flex,34928702
+2015,Nissan/Datsun,Nissan/Datsun,Versa 1.6 S,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808301
+2015,Nissan/Datsun,Nissan/Datsun,Versa 1.6 S Plus,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808401
+2015,Nissan/Datsun,Nissan/Datsun,Versa 1.6 SL,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808501
+2015,Nissan/Datsun,Nissan/Datsun,Versa 1.6 SV,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808601
+2015,Nissan/Datsun,Nissan/Datsun,Versa Note S,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808701
+2015,Nissan/Datsun,Nissan/Datsun,Versa Note S Plus,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808801
+2015,Nissan/Datsun,Nissan/Datsun,Versa Note SL,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34949301
+2015,Nissan/Datsun,Nissan/Datsun,Versa Note SR,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34949401
+2015,Nissan/Datsun,Nissan/Datsun,Versa Note SV,4 Cylinders 1.6L MFI DOHC,"","","",1.6,4,,,34808901
+2015,Nissan/Datsun,Nissan/Datsun,Xterra Pro-4X 4WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34929401
+2015,Nissan/Datsun,Nissan/Datsun,Xterra S 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34929501
+2015,Nissan/Datsun,Nissan/Datsun,Xterra X 2WD,6 Cylinders 4.0L FI DOHC,"","","",4.0,6,,,34929701
+2015,Peterbilt,Peterbilt,210,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35146801
+2015,Peterbilt,Peterbilt,220,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35146901
+2015,Peterbilt,Peterbilt,320,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35147004
+2015,Peterbilt,Peterbilt,320,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35147003
+2015,Peterbilt,Peterbilt,320,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147001
+2015,Peterbilt,Peterbilt,320,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35147002
+2015,Peterbilt,Peterbilt,325,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35147101
+2015,Peterbilt,Peterbilt,330,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35147201
+2015,Peterbilt,Peterbilt,337,6 Cylinders 6.7L MFI Turbo Dsl,"","","",6.7,6,Diesel,Diesel,35147302
+2015,Peterbilt,Peterbilt,337,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147301
+2015,Peterbilt,Peterbilt,348,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147401
+2015,Peterbilt,Peterbilt,365,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35147504
+2015,Peterbilt,Peterbilt,365,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35147505
+2015,Peterbilt,Peterbilt,365,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35147502
+2015,Peterbilt,Peterbilt,365,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147501
+2015,Peterbilt,Peterbilt,365,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35147503
+2015,Peterbilt,Peterbilt,367,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35147603
+2015,Peterbilt,Peterbilt,367,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35147602
+2015,Peterbilt,Peterbilt,367,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35147601
+2015,Peterbilt,Peterbilt,382,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147701
+2015,Peterbilt,Peterbilt,382,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35147702
+2015,Peterbilt,Peterbilt,384,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35147805
+2015,Peterbilt,Peterbilt,384,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35147806
+2015,Peterbilt,Peterbilt,384,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35147803
+2015,Peterbilt,Peterbilt,384,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35147802
+2015,Peterbilt,Peterbilt,384,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35147801
+2015,Peterbilt,Peterbilt,384,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35147804
+2015,Peterbilt,Peterbilt,386,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35147902
+2015,Peterbilt,Peterbilt,386,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35147901
+2015,Peterbilt,Peterbilt,386,6 Cylinders 15L  Natural Gas,"","","",15.0,6,Natural Gas,Natural Gas,35147903
+2015,Peterbilt,Peterbilt,388,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35148003
+2015,Peterbilt,Peterbilt,388,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35148002
+2015,Peterbilt,Peterbilt,388,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35148001
+2015,Peterbilt,Peterbilt,389,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35148103
+2015,Peterbilt,Peterbilt,389,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35148102
+2015,Peterbilt,Peterbilt,389,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35148101
+2015,Peterbilt,Peterbilt,567,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35148205
+2015,Peterbilt,Peterbilt,567,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35148204
+2015,Peterbilt,Peterbilt,567,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35148203
+2015,Peterbilt,Peterbilt,567,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35148201
+2015,Peterbilt,Peterbilt,567,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35148202
+2015,Peterbilt,Peterbilt,579,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35148304
+2015,Peterbilt,Peterbilt,579,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,35148303
+2015,Peterbilt,Peterbilt,579,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35148302
+2015,Peterbilt,Peterbilt,579,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35148301
+2015,Peterbilt,Peterbilt,587,6 Cylinders 12.9 Turbo Diesel,"","","",12.9,6,Diesel,Diesel,35148402
+2015,Peterbilt,Peterbilt,587,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35148401
+2015,Pierce Mfg. Inc.,Pierce,Arrow XT,6 Cylinders 12.5 Turbo Diesel,"","","",12.5,6,Diesel,Diesel,36396701
+2015,Pierce Mfg. Inc.,Pierce,Custom,6 Cylinders 12.5 Turbo Diesel,"","","",12.5,6,Diesel,Diesel,36655301
+2015,Pierce Mfg. Inc.,Pierce,Enclosed Cab,6 Cylinders 12.5 Turbo Diesel,"","","",12.5,6,Diesel,Diesel,36655501
+2015,Porsche,Porsche,911 Carrera,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34865001
+2015,Porsche,Porsche,911 Carrera 4,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34865101
+2015,Porsche,Porsche,911 Carrera 4 GTS,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34976101
+2015,Porsche,Porsche,911 Carrera 4S,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34865201
+2015,Porsche,Porsche,911 Carrera GTS,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34976201
+2015,Porsche,Porsche,911 Carrera S,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34865301
+2015,Porsche,Porsche,911 GT3,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34840201
+2015,Porsche,Porsche,911 Targa 4,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34840101
+2015,Porsche,Porsche,911 Targa 4S,6 Cylinders 3.8L DI DOHC,"","","",3.8,6,,,34840301
+2015,Porsche,Porsche,911 Turbo,6 Cylinders 3.8L DI Turbo DOHC,"","","",3.8,6,,,34840401
+2015,Porsche,Porsche,911 Turbo S,6 Cylinders 3.8L DI Turbo DOHC,"","","",3.8,6,,,34840501
+2015,Porsche,Porsche,918 Spyder,8 Cylinders 4.6L DI HEV DOHC,"","","",4.6,8,Hybrid,Hybrid,34865401
+2015,Porsche,Porsche,Boxster,6 Cylinders 2.7L DI DOHC,"","","",2.7,6,,,34840601
+2015,Porsche,Porsche,Boxster GTS,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34840701
+2015,Porsche,Porsche,Boxster S,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34840801
+2015,Porsche,Porsche,Cayenne Diesel AWD,6 Cylinders 3.0L Turbo Dsl DOHC,"","","",3.0,6,Diesel,Diesel,34948602
+2015,Porsche,Porsche,Cayenne GTS AWD,6 Cylinders 3.6L DI Turbo DOHC,"","","",3.6,6,,,34976401
+2015,Porsche,Porsche,Cayenne S AWD,6 Cylinders 3.6L FI Turbo DOHC,"","","",3.6,6,,,34948801
+2015,Porsche,Porsche,Cayenne S E- Hybrid AWD,6 Cylinders E 3.0L FI SC HEV DOHC,E,"","",3.0,6,Hybrid,Hybrid,34948501
+2015,Porsche,Porsche,Cayenne Turbo AWD,8 Cylinders C 4.8L Twin Turbo DOHC,C,"","",4.8,8,,,34948701
+2015,Porsche,Porsche,Cayman,6 Cylinders 2.7L DI DOHC,"","","",2.7,6,,,34841101
+2015,Porsche,Porsche,Cayman GTS,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34841201
+2015,Porsche,Porsche,Cayman S,6 Cylinders 3.4L FI DOHC,"","","",3.4,6,,,34841301
+2015,Porsche,Porsche,Macan S AWD,6 Cylinders 3.0L DI Turbo DOHC,"","","",3.0,6,,,34789001
+2015,Porsche,Porsche,Macan Turbo AWD,6 Cylinders 3.6L DI Turbo DOHC,"","","",3.6,6,,,34789101
+2015,Porsche,Porsche,Panamera,6 Cylinders 3.6L DI DOHC,"","","",3.6,6,,,34865801
+2015,Porsche,Porsche,Panamera 4,6 Cylinders 3.6L DI DOHC,"","","",3.6,6,,,34865901
+2015,Porsche,Porsche,Panamera 4S,6 Cylinders 3.0L DI Turbo DOHC,"","","",3.0,6,,,34866001
+2015,Porsche,Porsche,Panamera 4S Executive,6 Cylinders 3.0L DI Turbo DOHC,"","","",3.0,6,,,34866101
+2015,Porsche,Porsche,Panamera GTS,8 Cylinders 4.8L FI DOHC,"","","",4.8,8,,,34866201
+2015,Porsche,Porsche,Panamera S,6 Cylinders 3.0L DI Turbo DOHC,"","","",3.0,6,,,34866301
+2015,Porsche,Porsche,Panamera S E-Hybrid,6 Cylinders 3.0L FI SC HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,34866401
+2015,Porsche,Porsche,Panamera Turbo,8 Cylinders C 4.8L Twin Turbo DOHC,C,"","",4.8,8,,,34866501
+2015,Porsche,Porsche,Panamera Turbo Executive,8 Cylinders C 4.8L Twin Turbo DOHC,C,"","",4.8,8,,,34866601
+2015,Porsche,Porsche,Panamera Turbo S,8 Cylinders 4.8L Twin Turbo DOHC,"","","",4.8,8,,,34866701
+2015,Porsche,Porsche,Panamera Turbo S Executive,8 Cylinders 4.8L Twin Turbo DOHC,"","","",4.8,8,,,34866801
+2015,Scion,Scion,FR-S,4 Cylinders 2.0L DI DOHC,"","","",2.0,4,,,34840001
+2015,Scion,Scion,iQ,4 Cylinders J 1.3L MFI DOHC,J,"","",1.3,4,,,34925401
+2015,Scion,Scion,tC,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34864701
+2015,Scion,Scion,xB,4 Cylinders 2.4L MFI DOHC,"","","",2.4,4,,,34979101
+2015,Smart,Smart,Fortwo (Electric Drive),15 Cylinders 0.0L 55 kW 74 HP,"","","",0.0,15,,,34905501
+2015,Smart,Smart,Fortwo Passion,3 Cylinders 1.0L MFI DOHC,"","","",1.0,3,,,34905601
+2015,Smart,Smart,Fortwo Passion Cabriolet,3 Cylinders 1.0L MFI DOHC,"","","",1.0,3,,,34905701
+2015,Smart,Smart,Fortwo Pure,3 Cylinders 1.0L MFI DOHC,"","","",1.0,3,,,34905801
+2015,Spartan Motors,Spartan,Gladiator,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,36397002
+2015,Spartan Motors,Spartan,Gladiator,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36397001
+2015,Spartan Motors,Spartan,K3,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35854902
+2015,Spartan Motors,Spartan,Metro Star,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36397201
+2015,Spartan Motors,Spartan,Metro Star X,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36397101
+2015,Spartan Motors,Spartan,Mountain Master,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35666302
+2015,Spartan Motors,Spartan,School Bus,6 Cylinders 5.9L MFI Turbo Dsl,"","","",5.9,6,Diesel,Diesel,36789101
+2015,Subaru,Subaru,BRZ Limited,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34840901
+2015,Subaru,Subaru,BRZ Premium,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34841001
+2015,Subaru,Subaru,BRZ Series.Blue,4 Cylinders A 2.0L FI DOHC,A,"","",2.0,4,,,34864801
+2015,Subaru,Subaru,Forester 2.0XT Premium AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34810101
+2015,Subaru,Subaru,Forester 2.0XT Touring AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34810201
+2015,Subaru,Subaru,Forester 2.5i AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34810301
+2015,Subaru,Subaru,Forester 2.5i Limited AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34810401
+2015,Subaru,Subaru,Forester 2.5i Premium AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34810501
+2015,Subaru,Subaru,Forester 2.5i Touring AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34810601
+2015,Subaru,Subaru,Impreza AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34842501
+2015,Subaru,Subaru,Impreza Limited AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34842601
+2015,Subaru,Subaru,Impreza Premium AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34842701
+2015,Subaru,Subaru,Impreza Sport Limited AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34842801
+2015,Subaru,Subaru,Impreza Sport Premium AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34842901
+2015,Subaru,Subaru,Legacy 2.5i AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814201
+2015,Subaru,Subaru,Legacy 2.5i Limited AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814301
+2015,Subaru,Subaru,Legacy 2.5i Premium AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814401
+2015,Subaru,Subaru,Legacy 3.6R Limited AWD,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34814501
+2015,Subaru,Subaru,Outback 2.5i AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814601
+2015,Subaru,Subaru,Outback 2.5i Limited AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814701
+2015,Subaru,Subaru,Outback 2.5i Premium AWD,4 Cylinders 2.5L MFI DOHC,"","","",2.5,4,,,34814801
+2015,Subaru,Subaru,Outback 3.6R Limited AWD,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34814901
+2015,Subaru,Subaru,WRX AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34777201
+2015,Subaru,Subaru,WRX Limited AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34777301
+2015,Subaru,Subaru,WRX Premium AWD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34777401
+2015,Subaru,Subaru,WRX STI AWD,4 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,4,,,34777501
+2015,Subaru,Subaru,WRX STI Launch Edition AWD,4 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,4,,,34791201
+2015,Subaru,Subaru,WRX STI Limited AWD,4 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,4,,,34777601
+2015,Subaru,Subaru,XV Crosstrek AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34959401
+2015,Subaru,Subaru,XV Crosstrek Hyb Touring AWD,4 Cylinders 2.0L MFI Hybrid DOHC,"","","",2.0,4,Hybrid,Hybrid,34843301
+2015,Subaru,Subaru,XV Crosstrek Hybrid AWD,4 Cylinders 2.0L MFI Hybrid DOHC,"","","",2.0,4,Hybrid,Hybrid,34843201
+2015,Subaru,Subaru,XV Crosstrek Limited AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34843001
+2015,Subaru,Subaru,XV Crosstrek Premium AWD,4 Cylinders 2.0L MFI DOHC,"","","",2.0,4,,,34843101
+2015,Temsa Bus,Temsa Bus,TS30,6 Cylinders 9 6.7L Turbo Dsl OHV,9,"","",6.7,6,Diesel,Diesel,36759301
+2015,Temsa Bus,Temsa Bus,TS35,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,36759401
+2015,Temsa Bus,Temsa Bus,TS45,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,36759501
+2015,Terex / Terex Advance,Terex,Terex Advance Mixer,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,36398301
+2015,Terex / Terex Advance,Terex,Terex Advance Mixer,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,36398302
+2015,Tesla,Tesla,S 85 (Electric),15 Cylinders 0.0L 270 kW 362 HP,"","","",0.0,15,,,36378901
+2015,Thomas,Thomas built,Saf-T-Liner HDX,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35680902
+2015,Thomas,Thomas built,Saf-T-Liner HDX,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35680904
+2015,Thomas,Thomas built,Saf-T-Liner HDX,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35680903
+2015,Thomas,Thomas built,Saf-T-Liner MVP EF,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35681002
+2015,Thomas,Thomas built,Saf-T-Liner MVP EF,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35681003
+2015,Thomas,Thomas built,Transit Liner HDX,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35681102
+2015,Thomas,Thomas built,Transit Liner MVP EF,6 Cylinders 8.3L MFI Turbo Dsl,"","","",8.3,6,Diesel,Diesel,35681202
+2015,Toyota,Toyota,4Runner Limited 2WD,6 Cylinders U 4.0L FI DOHC,U,"","",4.0,6,,,34908501
+2015,Toyota,Toyota,4Runner SR5 2WD,6 Cylinders U 4.0L FI DOHC,U,"","",4.0,6,,,34908701
+2015,Toyota,Toyota,4Runner Trail 4WD,6 Cylinders U 4.0L FI DOHC,U,"","",4.0,6,,,34908901
+2015,Toyota,Toyota,4Runner TRD Pro 4WD,6 Cylinders U 4.0L FI DOHC,U,"","",4.0,6,,,34909001
+2015,Toyota,Toyota,Avalon Hybrid Limited,4 Cylinders 2.5L MFI Hybrid DOHC,"","","",2.5,4,Hybrid,Hybrid,34841401
+2015,Toyota,Toyota,Avalon Hybrid XLE Premium,4 Cylinders 2.5L MFI Hybrid DOHC,"","","",2.5,4,Hybrid,Hybrid,34841501
+2015,Toyota,Toyota,Avalon Hybrid XLE Touring,4 Cylinders 2.5L MFI Hybrid DOHC,"","","",2.5,4,Hybrid,Hybrid,34969401
+2015,Toyota,Toyota,Avalon Limited,6 Cylinders 3.5L MFI DOHC,"","","",3.5,6,,,34841601
+2015,Toyota,Toyota,Avalon XLE,6 Cylinders 3.5L MFI DOHC,"","","",3.5,6,,,34841701
+2015,Toyota,Toyota,Avalon XLE Premium,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34969501
+2015,Toyota,Toyota,Avalon XLE Touring,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34969601
+2015,Toyota,Toyota,Avalon XLE Touring SE,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34969701
+2015,Toyota,Toyota,Camry Hybrid LE,4 Cylinders 2.5L FI HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34841801
+2015,Toyota,Toyota,Camry Hybrid SE,4 Cylinders 2.5L FI HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34841901
+2015,Toyota,Toyota,Camry Hybrid XLE,4 Cylinders 2.5L FI HEV DOHC,"","","",2.5,4,Hybrid,Hybrid,34842001
+2015,Toyota,Toyota,Camry LE,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34842101
+2015,Toyota,Toyota,Camry SE,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34842201
+2015,Toyota,Toyota,Camry XLE,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34842301
+2015,Toyota,Toyota,Camry XLE,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34842302
+2015,Toyota,Toyota,Camry XSE,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34842402
+2015,Toyota,Toyota,Camry XSE,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34842401
+2015,Toyota,Toyota,Corolla L,4 Cylinders U 1.8L FI DOHC,U,"","",1.8,4,,,34843401
+2015,Toyota,Toyota,Corolla LE,4 Cylinders U 1.8L FI DOHC,U,"","",1.8,4,,,34843501
+2015,Toyota,Toyota,Corolla LE Eco,4 Cylinders P 1.8L MFI DOHC,P,"","",1.8,4,,,34843701
+2015,Toyota,Toyota,Corolla S,4 Cylinders U 1.8L FI DOHC,U,"","",1.8,4,,,34843601
+2015,Toyota,Toyota,Highlander Hybrid Limited AWD,6 Cylinders 3.5L MFI Hybrid DOHC,"","","",3.5,6,Hybrid,Hybrid,34843901
+2015,Toyota,Toyota,Highlander LE 2WD,4 Cylinders 2.7L MFI DOHC,"","","",2.7,4,,,34843801
+2015,Toyota,Toyota,Highlander LE 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34843802
+2015,Toyota,Toyota,Highlander LE Plus 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34844101
+2015,Toyota,Toyota,Highlander Limited 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34844301
+2015,Toyota,Toyota,Highlander XLE 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34844501
+2015,Toyota,Toyota,Land Cruiser,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34909101
+2015,Toyota,Toyota,Prius C Four,4 Cylinders D 1.5L MFI HEV DOHC,D,"","",1.5,4,Hybrid,Hybrid,34976801
+2015,Toyota,Toyota,Prius C One,4 Cylinders D 1.5L MFI HEV DOHC,D,"","",1.5,4,Hybrid,Hybrid,34976501
+2015,Toyota,Toyota,Prius C Three,4 Cylinders D 1.5L MFI HEV DOHC,D,"","",1.5,4,Hybrid,Hybrid,34976701
+2015,Toyota,Toyota,Prius C Two,4 Cylinders D 1.5L MFI HEV DOHC,D,"","",1.5,4,Hybrid,Hybrid,34976601
+2015,Toyota,Toyota,Prius Five,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34932501
+2015,Toyota,Toyota,Prius Four,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34932601
+2015,Toyota,Toyota,Prius One,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,36018701
+2015,Toyota,Toyota,Prius Persona Series,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,36017001
+2015,Toyota,Toyota,Prius Plug-In,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34909201
+2015,Toyota,Toyota,Prius Three,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34932701
+2015,Toyota,Toyota,Prius Two,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34932801
+2015,Toyota,Toyota,Prius V Five,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34977201
+2015,Toyota,Toyota,Prius V Four,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34977101
+2015,Toyota,Toyota,Prius V Three,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34977001
+2015,Toyota,Toyota,Prius V Two,4 Cylinders N 1.8L MFI HEV DOHC,N,"","",1.8,4,Hybrid,Hybrid,34976901
+2015,Toyota,Toyota,RAV4 LE 2WD,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34845901
+2015,Toyota,Toyota,RAV4 Limited 2WD,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34845701
+2015,Toyota,Toyota,RAV4 XLE 2WD,4 Cylinders 2.5L FI DOHC,"","","",2.5,4,,,34846101
+2015,Toyota,Toyota,Sequoia Limited 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34909901
+2015,Toyota,Toyota,Sequoia Limited 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34910002
+2015,Toyota,Toyota,Sequoia Platinum 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34910101
+2015,Toyota,Toyota,Sequoia Platinum 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34910202
+2015,Toyota,Toyota,Sequoia SR5 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34910301
+2015,Toyota,Toyota,Sequoia SR5 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34910402
+2015,Toyota,Toyota,Sienna L 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34846301
+2015,Toyota,Toyota,Sienna LE 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34846401
+2015,Toyota,Toyota,Sienna Limited 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34846601
+2015,Toyota,Toyota,Sienna SE 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34846801
+2015,Toyota,Toyota,Sienna XLE 2WD,6 Cylinders 3.5L FI DOHC,"","","",3.5,6,,,34846901
+2015,Toyota,Toyota,Tacoma 2WD,4 Cylinders 2.7L MFI DOHC,"","","",2.7,4,,,34910501
+2015,Toyota,Toyota,Tacoma 4WD,6 Cylinders 4.0L MFI DOHC,"","","",4.0,6,,,34910602
+2015,Toyota,Toyota,Tacoma PreRunner 2WD,4 Cylinders 2.7L MFI DOHC,"","","",2.7,4,,,34910801
+2015,Toyota,Toyota,Tacoma PreRunner 2WD,6 Cylinders 4.0L MFI DOHC,"","","",4.0,6,,,34910802
+2015,Toyota,Toyota,Tacoma TRD Pro 4WD,6 Cylinders 4.0L MFI DOHC,"","","",4.0,6,,,34910701
+2015,Toyota,Toyota,Tundra 1794 Edition 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34932901
+2015,Toyota,Toyota,Tundra 1794 Edition 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933002
+2015,Toyota,Toyota,Tundra Limited 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34933101
+2015,Toyota,Toyota,Tundra Limited 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933202
+2015,Toyota,Toyota,Tundra Platinum 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34933301
+2015,Toyota,Toyota,Tundra Platinum 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933402
+2015,Toyota,Toyota,Tundra SR 2WD,8 Cylinders M 4.6L FI DOHC,M,"","",4.6,8,,,34933501
+2015,Toyota,Toyota,Tundra SR 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34933502
+2015,Toyota,Toyota,Tundra SR 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933603
+2015,Toyota,Toyota,Tundra SR5 2WD,8 Cylinders M 4.6L FI DOHC,M,"","",4.6,8,,,34933701
+2015,Toyota,Toyota,Tundra SR5 2WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34933702
+2015,Toyota,Toyota,Tundra SR5 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933803
+2015,Toyota,Toyota,Tundra TRD Pro 4WD,8 Cylinders W 5.7L MFI FFV DOHC,W,"","",5.7,8,Flex,Flex,34933902
+2015,Toyota,Toyota,Tundra TRD Pro 4WD,8 Cylinders Y 5.7L FI DOHC,Y,"","",5.7,8,,,34933901
+2015,Toyota,Toyota,Venza LE,4 Cylinders A 2.7L MFI DOHC,A,"","",2.7,4,,,34910901
+2015,Toyota,Toyota,Venza Limited,6 Cylinders K 3.5L FI DOHC,K,"","",3.5,6,,,34911101
+2015,Toyota,Toyota,Venza XLE,4 Cylinders A 2.7L MFI DOHC,A,"","",2.7,4,,,34911001
+2015,Toyota,Toyota,Venza XLE,6 Cylinders K 3.5L FI DOHC,K,"","",3.5,6,,,34911002
+2015,Toyota,Toyota,Yaris L,4 Cylinders T 1.5L FI DOHC,T,"","",1.5,4,,,34912101
+2015,Toyota,Toyota,Yaris LE,4 Cylinders T 1.5L FI DOHC,T,"","",1.5,4,,,34912201
+2015,Toyota,Toyota,Yaris SE,4 Cylinders T 1.5L FI DOHC,T,"","",1.5,4,,,34912301
+2015,Van Hool,Van Hool,Commuter Coach CX,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,36398902
+2015,Van Hool,Van Hool,Commuter Coach CX,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36398901
+2015,Van Hool,Van Hool,TD925,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,36350801
+2015,Van Hool,Van Hool,Tourist Coach TX,6 Cylinders 11.9 Turbo Diesel,"","","",11.9,6,Diesel,Diesel,36399002
+2015,Van Hool,Van Hool,Tourist Coach TX,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36399001
+2015,Volkswagen,Volkswagen,Beetle,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34949601
+2015,Volkswagen,Volkswagen,Beetle Classic,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34949701
+2015,Volkswagen,Volkswagen,Beetle Fleet Edition,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,36015601
+2015,Volkswagen,Volkswagen,Beetle R-Line,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34949801
+2015,Volkswagen,Volkswagen,Beetle TDI,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34949901
+2015,Volkswagen,Volkswagen,CC Executive,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34934801
+2015,Volkswagen,Volkswagen,CC Executive 4Motion,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34934901
+2015,Volkswagen,Volkswagen,CC R-Line,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34935001
+2015,Volkswagen,Volkswagen,CC Sport,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34935101
+2015,Volkswagen,Volkswagen,e-Golf Limited Ed. (Electric),15 Cylinders 0.0L 86 kW 115 HP,"","","",0.0,15,,,35878901
+2015,Volkswagen,Volkswagen,e-Golf SEL Premium (Electric),15 Cylinders 0.0L 86 kW 115 HP,"","","",0.0,15,,,34849901
+2015,Volkswagen,Volkswagen,Eos Executive,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34845301
+2015,Volkswagen,Volkswagen,Eos Final Edition,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34845401
+2015,Volkswagen,Volkswagen,Eos Komfort,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34845501
+2015,Volkswagen,Volkswagen,Golf Launch Edition,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34969901
+2015,Volkswagen,Volkswagen,Golf R,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34850001
+2015,Volkswagen,Volkswagen,Golf S,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34847401
+2015,Volkswagen,Volkswagen,Golf SE,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34847501
+2015,Volkswagen,Volkswagen,Golf SEL,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34847601
+2015,Volkswagen,Volkswagen,Golf SportWagen S,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,35720401
+2015,Volkswagen,Volkswagen,Golf SportWagen SE,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,35720501
+2015,Volkswagen,Volkswagen,Golf SportWagen SEL,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,35720601
+2015,Volkswagen,Volkswagen,Golf SportWagen TDI S,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,35720701
+2015,Volkswagen,Volkswagen,Golf SportWagen TDI SE,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,35720801
+2015,Volkswagen,Volkswagen,Golf SportWagen TDI SEL,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,35720901
+2015,Volkswagen,Volkswagen,Golf TDI S,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34847101
+2015,Volkswagen,Volkswagen,Golf TDI SE,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34847201
+2015,Volkswagen,Volkswagen,Golf TDI SEL,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34847301
+2015,Volkswagen,Volkswagen,GTI Autobahn,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34844701
+2015,Volkswagen,Volkswagen,GTI S,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34844801
+2015,Volkswagen,Volkswagen,GTI SE,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34844901
+2015,Volkswagen,Volkswagen,Jetta,4 Cylinders 2.0L FI SOHC,"","","",2.0,4,,,36025501
+2015,Volkswagen,Volkswagen,Jetta GLI SE,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34849601
+2015,Volkswagen,Volkswagen,Jetta GLI SEL,4 Cylinders 2.0L FI Turbo DOHC,"","","",2.0,4,,,34991001
+2015,Volkswagen,Volkswagen,Jetta Hybrid SEL Premium,4 Cylinders 1.4L Turbo HEV DOHC,"","","",1.4,4,Hybrid,Hybrid,34849201
+2015,Volkswagen,Volkswagen,Jetta S,4 Cylinders 2.0L FI SOHC,"","","",2.0,4,,,34849302
+2015,Volkswagen,Volkswagen,Jetta SE,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34849401
+2015,Volkswagen,Volkswagen,Jetta SEL,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34849501
+2015,Volkswagen,Volkswagen,Jetta Sport,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34990801
+2015,Volkswagen,Volkswagen,Jetta TDI S,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34950101
+2015,Volkswagen,Volkswagen,Jetta TDI SE,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34950201
+2015,Volkswagen,Volkswagen,Jetta TDI SEL,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34950301
+2015,Volkswagen,Volkswagen,Passat Limited Edition,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,36015701
+2015,Volkswagen,Volkswagen,Passat S,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34934201
+2015,Volkswagen,Volkswagen,Passat SE,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34934301
+2015,Volkswagen,Volkswagen,Passat SEL Premium,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34934401
+2015,Volkswagen,Volkswagen,Passat Sport,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,36015801
+2015,Volkswagen,Volkswagen,Passat TDI SE,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34934601
+2015,Volkswagen,Volkswagen,Passat TDI SEL Premium,4 Cylinders 2.0L Turbo Dsl DOHC,"","","",2.0,4,Diesel,Diesel,34934701
+2015,Volkswagen,Volkswagen,Passat Wolfsburg Edition,4 Cylinders 1.8L DI Turbo DOHC,"","","",1.8,4,,,34934501
+2015,Volkswagen,Volkswagen,Tiguan R-Line 2WD,4 Cylinders V 2.0L FI Turbo DOHC,V,"","",2.0,4,,,34935201
+2015,Volkswagen,Volkswagen,Tiguan S 2WD,4 Cylinders V 2.0L FI Turbo DOHC,V,"","",2.0,4,,,34935401
+2015,Volkswagen,Volkswagen,Tiguan SE 2WD,4 Cylinders V 2.0L FI Turbo DOHC,V,"","",2.0,4,,,34935601
+2015,Volkswagen,Volkswagen,Tiguan SEL 2WD,4 Cylinders V 2.0L FI Turbo DOHC,V,"","",2.0,4,,,34935801
+2015,Volkswagen,Volkswagen,Touareg Hybrid AWD,6 Cylinders 3.0L FI SC HEV DOHC,"","","",3.0,6,Hybrid,Hybrid,34973701
+2015,Volkswagen,Volkswagen,Touareg TDI Executive,6 Cylinders P 3.0L Turbo Dsl DOHC,P,"","",3.0,6,Diesel,Diesel,34936801
+2015,Volkswagen,Volkswagen,Touareg TDI Lux,6 Cylinders P 3.0L Turbo Dsl DOHC,P,"","",3.0,6,Diesel,Diesel,34936901
+2015,Volkswagen,Volkswagen,Touareg TDI Sport,6 Cylinders P 3.0L Turbo Dsl DOHC,P,"","",3.0,6,Diesel,Diesel,34968001
+2015,Volkswagen,Volkswagen,Touareg V6 Executive,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34968101
+2015,Volkswagen,Volkswagen,Touareg V6 Lux,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34968201
+2015,Volkswagen,Volkswagen,Touareg V6 R-Line,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34968301
+2015,Volkswagen,Volkswagen,Touareg V6 Sport,6 Cylinders 3.6L FI DOHC,"","","",3.6,6,,,34968401
+2015,Volvo,Volvo,9700,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36399401
+2015,Volvo,Volvo,S60 T5 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34775801
+2015,Volvo,Volvo,S60 T5 AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,34865701
+2015,Volvo,Volvo,S60 T5 Platinum 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35645401
+2015,Volvo,Volvo,S60 T5 Platinum AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35645501
+2015,Volvo,Volvo,S60 T5 Premier 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35644901
+2015,Volvo,Volvo,S60 T5 Premier AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35645001
+2015,Volvo,Volvo,S60 T5 Premier Plus 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35645101
+2015,Volvo,Volvo,S60 T5 Premier Plus AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35645201
+2015,Volvo,Volvo,S60 T6 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34775901
+2015,Volvo,Volvo,S60 T6 Platinum 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35645601
+2015,Volvo,Volvo,S60 T6 Polestar AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,35645801
+2015,Volvo,Volvo,S60 T6 Premier Plus 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35645301
+2015,Volvo,Volvo,S60 T6 R-Design AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34776001
+2015,Volvo,Volvo,S60 T6 R-Design Platinum AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,35645701
+2015,Volvo,Volvo,S80 T5 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34792201
+2015,Volvo,Volvo,S80 T6 AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34792301
+2015,Volvo,Volvo,V60 Cross Country T5 AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,34977901
+2015,Volvo,Volvo,V60 T5 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34776101
+2015,Volvo,Volvo,V60 T5 AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,34776201
+2015,Volvo,Volvo,V60 T5 Platinum 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35646301
+2015,Volvo,Volvo,V60 T5 Platinum AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35646401
+2015,Volvo,Volvo,V60 T5 Premier 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35645901
+2015,Volvo,Volvo,V60 T5 Premier AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35646001
+2015,Volvo,Volvo,V60 T5 Premier Plus 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35646101
+2015,Volvo,Volvo,V60 T5 Premier Plus AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,35646201
+2015,Volvo,Volvo,V60 T6 Polestar AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,35646601
+2015,Volvo,Volvo,V60 T6 R-Design AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34776301
+2015,Volvo,Volvo,V60 T6 R-Design Platinum AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,35646501
+2015,Volvo,Volvo,VAH,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35625003
+2015,Volvo,Volvo,VAH,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35625002
+2015,Volvo,Volvo,VHD,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35625103
+2015,Volvo,Volvo,VHD,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35625102
+2015,Volvo,Volvo,VNL,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35792205
+2015,Volvo,Volvo,VNL,6 Cylinders 11.9 Natural Gas,"","","",11.9,6,Natural Gas,Natural Gas,35792203
+2015,Volvo,Volvo,VNL,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35792204
+2015,Volvo,Volvo,VNL,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35792202
+2015,Volvo,Volvo,VNL,6 Cylinders 16.1 Turbo Diesel,"","","",16.1,6,Diesel,Diesel,35792206
+2015,Volvo,Volvo,VNM,6 Cylinders 10.8 MFI Turbo Dsl,"","","",10.8,6,Diesel,Diesel,35792304
+2015,Volvo,Volvo,VNM,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35792303
+2015,Volvo,Volvo,VNM,6 Cylinders 8.9L Natural Gas,"","","",8.9,6,Natural Gas,Natural Gas,35792302
+2015,Volvo,Volvo,VNX,6 Cylinders 16.1 Turbo Diesel,"","","",16.1,6,Diesel,Diesel,36352501
+2015,Volvo,Volvo,XC60 3.2 AWD,6 Cylinders 3.2L FI DOHC,"","","",3.2,6,,,34776401
+2015,Volvo,Volvo,XC60 T5 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34776801
+2015,Volvo,Volvo,XC60 T5 AWD,5 Cylinders 2.5L FI Turbo DOHC,"","","",2.5,5,,,34992501
+2015,Volvo,Volvo,XC60 T6 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34776501
+2015,Volvo,Volvo,XC60 T6 AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34776601
+2015,Volvo,Volvo,XC60 T6 Ocean Race  2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,35968701
+2015,Volvo,Volvo,XC60 T6 Ocean Race  AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,35968601
+2015,Volvo,Volvo,XC60 T6 R-Design AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34776701
+2015,Volvo,Volvo,XC70 3.2 AWD,6 Cylinders 3.2L FI DOHC,"","","",3.2,6,,,34792501
+2015,Volvo,Volvo,XC70 T5 2WD,4 Cylinders 2.0L DI Turbo DOHC,"","","",2.0,4,,,34792601
+2015,Volvo,Volvo,XC70 T6 AWD,6 Cylinders 3.0L FI Turbo DOHC,"","","",3.0,6,,,34792701
+2015,Western Star,Western Star,4700 4700SB,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35335403
+2015,Western Star,Western Star,4700 4700SB,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35335402
+2015,Western Star,Western Star,4700 4700SF,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35335503
+2015,Western Star,Western Star,4700 4700SF,6 Cylinders 8.9L MFI Turbo Dsl,"","","",8.9,6,Diesel,Diesel,35335502
+2015,Western Star,Western Star,4800 4800SB,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36351401
+2015,Western Star,Western Star,4800 4800SF,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,36351501
+2015,Western Star,Western Star,4900EX,6 Cylinders 14.6 MFI Turbo Dsl,"","","",14.6,6,Diesel,Diesel,35335606
+2015,Western Star,Western Star,4900EX,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35335603
+2015,Western Star,Western Star,4900EX,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35335605
+2015,Western Star,Western Star,4900EX,6 Cylinders 14L  MFI Turbo Dsl,"","","",14.0,6,Diesel,Diesel,35335602
+2015,Western Star,Western Star,4900EX,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35335604
+2015,Western Star,Western Star,4900FA,6 Cylinders 12.7 MFI Turbo Dsl,"","","",12.7,6,Diesel,Diesel,35335702
+2015,Western Star,Western Star,4900FA,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35335707
+2015,Western Star,Western Star,4900FA,6 Cylinders 14.6 MFI Turbo Dsl,"","","",14.6,6,Diesel,Diesel,35335706
+2015,Western Star,Western Star,4900FA,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35335703
+2015,Western Star,Western Star,4900FA,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35335705
+2015,Western Star,Western Star,4900FA,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35335704
+2015,Western Star,Western Star,4900SA,6 Cylinders 12.8 Turbo Diesel,"","","",12.8,6,Diesel,Diesel,35335807
+2015,Western Star,Western Star,4900SA,6 Cylinders 14.6 MFI Turbo Dsl,"","","",14.6,6,Diesel,Diesel,35335806
+2015,Western Star,Western Star,4900SA,6 Cylinders 14.8 Turbo Diesel,"","","",14.8,6,Diesel,Diesel,35335803
+2015,Western Star,Western Star,4900SA,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,35335805
+2015,Western Star,Western Star,4900SA,6 Cylinders 14L  MFI Turbo Dsl,"","","",14.0,6,Diesel,Diesel,35335802
+2015,Western Star,Western Star,4900SA,6 Cylinders 15.6 Turbo Diesel,"","","",15.6,6,Diesel,Diesel,35335804
+2015,Western Star,Western Star,6900XD,6 Cylinders 14.9 MFI Turbo Dsl,"","","",14.9,6,Diesel,Diesel,36351601
